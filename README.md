@@ -35,5 +35,5 @@ Oh, and by the way: This is a passion project that I have worked on for the last
 
 In case you wonder why this repo was created a month early, that is so I could write the description to a heightened standard prior to release date, and decide on a name. Expect a Github Pages site for this, among other things.
 
-### Prototype Download:
-**http://stgiga.github.io/UnifontEX/UnifontExMonoProto1.ttf**
+### [**Prototype Download**](http://stgiga.github.io/UnifontEX/UnifontExMonoProto1.ttf)
+
