@@ -34,3 +34,6 @@ As part of the compatibility focus, the x in the filename "UnifontExMono" is low
 Oh, and by the way: This is a passion project that I have worked on for the last 6 years (maybe 7), in part because I was waiting for new Unicode and Unifont versions to drop so I could see what was in them. This isn't the longest project I have done (that honor goes to two of which I have spent 8 years on), but it certainly was a long haul. I hope that my improvements help you in your endeavors.
 
 In case you wonder why this repo was created a month early, that is so I could write the description to a heightened standard prior to release date, and decide on a name. Expect a Github Pages site for this, among other things.
+
+### Prototype Download:
+**http://stgiga.github.io/UnifontEX/UnifontExMonoProto1.ttf**
