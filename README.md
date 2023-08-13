@@ -37,3 +37,9 @@ In case you wonder why this repo was created a month early, that is so I could w
 
 ### [**Prototype Download**](http://stgiga.github.io/UnifontEX/UnifontExMonoProto1.ttf)
 ### [TTF2PNG Prototype Download](http://stgiga.github.io/UnifontEX/15006-1bpp.png)
+
+Oh I am legally obligated to say that GNU Unifont is under GPL2 with font embedding exception and OFLv1.1, and can be found [here](https://unifoundry.com/unifont/index.html) and is by Roman Czyborra and Paul Hardy, et. al.
+
+Also, my real-life name is NOT something I give out online willy-nilly, just in case you find yourself needing to know it to follow the crediting part of GPL2, in which case you should credit me as "stgiga". Online, I basically only use aliases, because I'm VERY paranoid about online safety, especially given the fact that I quite literally am certified in cybersecurity. And yes, you would be right in assuming that I use this Unifont build in my IDEs and terminals. As well as my Ubuntu window titles. As well as other stuff. 
+
+With that out of the way, I hope you enjoy this project as much as I enjoyed making it! Have fun, and do honor the original devs of Unifont. They do great work. Enjoy!
