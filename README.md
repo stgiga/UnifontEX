@@ -69,3 +69,5 @@ Also, now your terminal and IDE can support Unicode better, which can definitely
 
 ## TL;DR: UnifontEX's use cases could fill a book (literally). This README is lagging my Firefox, so I'm not going to start listing more. Go enjoy UnifontEX! 
 
+![UnifontEX](UnifontEXlogo.png "UnifontEX")
+
