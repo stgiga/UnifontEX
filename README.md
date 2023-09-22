@@ -36,8 +36,8 @@ Oh, and by the way: This is a passion project that I have worked on for the last
 In case you wonder why this repo was created a month early, that is so I could write the description to a heightened standard prior to release date, and decide on a name. Expect a Github Pages site for this, among other things.
 
 ### [**Download**](http://stgiga.github.io/UnifontEX/UnifontExMono.ttf)
-### [TTF2PNG Prototype Download](http://stgiga.github.io/UnifontEX/UnifontExMono.png)
-### [BDF Prototype Download](http://stgiga.github.io/UnifontEX/UnifontExMono-16.bdf)
+### [TTF2PNG Build Download](http://stgiga.github.io/UnifontEX/UnifontExMono.png)
+### [BDF Download](http://stgiga.github.io/UnifontEX/UnifontExMono-16.bdf)
 
 Oh I am legally obligated to say that GNU Unifont is under GPL2 with font embedding exception and OFLv1.1, and can be found [here](https://unifoundry.com/unifont/index.html) and is by Roman Czyborra and Paul Hardy, et. al.
 
