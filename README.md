@@ -1,5 +1,5 @@
 # UnifontEX
-An extended fork of GNU Unifont with a focus on high compatibility, made from the last TrueType version of GNU Unifont (15.0.06-JP, which is the most complete), merged with the last version of Upper that will successfully merge after removing the placeholders (11.0.01 Upper). I then did several compatibility steps to make it work under more environments, such as taking SEVERAL measures to make the font work in environments that only want monospace fonts (which Unifont is closer to than something like Times New Roman), as well as fixing the TeX table (among other structures, including stuff like the Panose and OS/2 stuff, among other things), activating Vertical Metrics to make Inkscape not reject it when dealing with Vertical CJKV text, and making the output TTF work best on ALL OS choices. I also used TTF2PNG by Data Beaver's Domain (plus GIMP to make it true 1bpp) to make an unabridged 1 megabyte PNG of the font, for use in situations where TrueType wouldn't make sense, as well as a BDF version also made by FontForge.
+An extended fork of GNU Unifont with a focus on high compatibility, made from the last TrueType version of GNU Unifont (15.0.06-JP, which is the most complete), merged with the last version of Upper that will successfully merge after removing the placeholders (11.0.01 Upper). I then did several compatibility steps to make it work under more environments, such as taking SEVERAL measures to make the font work in environments that only want monospace fonts (which Unifont is closer to than something like Times New Roman), as well as fixing the TeX table (among other structures, including stuff like the Panose and OS/2 stuff, among other things), activating Vertical Metrics to make Inkscape not reject it when dealing with Vertical CJKV text, and making the output TTF work best on ALL OS choices. I also used TTF2PNG by Data Beaver's Domain (plus GIMP to make it true 1bpp) to make an unabridged 1 megabyte PNG of the font, for use in situations where TrueType wouldn't make sense, as well as a BDF version also made by FontForge, and a PC-98 font BMP port of UnifontEX made by Neko Project 2 (the Wii port) from the TrueType. (This is for PC-98 emulators that expect ANEX86.BMP)
 
 ## Now, what DOES adding Upper into Unifont offer?
 
@@ -38,6 +38,7 @@ In case you wonder why this repo was created a month early, that is so I could w
 ### [**Download**](http://stgiga.github.io/UnifontEX/UnifontExMono.ttf)
 ### [TTF2PNG Build Download](http://stgiga.github.io/UnifontEX/UnifontExMono.png)
 ### [BDF Download](http://stgiga.github.io/UnifontEX/UnifontExMono-16.bdf)
+### [UnifontEX PC-98 font BMP Download](http://stgiga.github.io/UnifontEX/UFEXPC98.BMP) 
 
 Oh I am legally obligated to say that GNU Unifont is under GPL2 with font embedding exception and OFLv1.1, and can be found [here](https://unifoundry.com/unifont/index.html) and is by Roman Czyborra and Paul Hardy, et. al.
 
