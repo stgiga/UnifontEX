@@ -44,7 +44,7 @@ In case you wonder why this repo was created a month early, that is so I could w
 ### [WOFF2 Download](http://stgiga.github.io/UnifontEX/UnifontExMono.woff2)
 ### [FontForge SFD Download](http://stgiga.github.io/UnifontEX/UnifontExMonoSFD.7z)
 ### [EOT Download](http://stgiga.github.io/UnifontEX/UnifontExMono.eot)
-### [macOS DFONT Download](http://stgiga.github.io/UnifontEX/UnifontExMono.dfont)
+### [macOS DFONT Download](http://stgiga.github.io/UnifontEX/UnifontExMonoDFONT.7z)
 ### [OTB Download](http://stgiga.github.io/UnifontEX/UnifontExMono.otb)
 
 
