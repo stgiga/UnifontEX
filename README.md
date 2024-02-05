@@ -85,3 +85,4 @@ Additionally, all the circled and boxed letters, the checkboxes, radio buttons, 
 
 ![UnifontEX](UnifontEXlogo.png "UnifontEX")
 
+*In memory of Albrecht Biedl, the Berlin professor that the original creator of Unifont, Roman Cyzborra, according to his website, had as a thesis advisor, who passed away on December 16th, 2023. I'm glad he lived to see UnifontEX.*
