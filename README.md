@@ -53,6 +53,7 @@ In case you wonder why this repo was created a month early, that is so I could w
 ### [Proof-of-Concept SVGZ Download](http://stgiga.github.io/UnifontEX/UnifontExMono.svgz)
 ### [Proof-of-Concept WOFF3 Download](http://stgiga.github.io/UnifontEX/UnifontExMono.woff3)
 
+### [Cross-browser UnifontEX Webfont Stylesheet Download](UnifontExMono.css)
 
 Oh I am legally obligated to say that GNU Unifont is under GPL2 with font embedding exception and OFLv1.1, and can be found [here](https://unifoundry.com/unifont/index.html) and is by Roman Czyborra and Paul Hardy, et. al.
 
