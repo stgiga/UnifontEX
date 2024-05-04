@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'UnifontExMono';
+  src: url('stgiga.github.io/UnifontEX/UnifontExMono.eot'); /* IE9 Compat Modes */
+  src: url('stgiga.github.io/UnifontEX/UnifontExMono.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('stgiga.github.io/UnifontEX/UnifontExMono.woff2') format('woff2'), /* Super Modern Browsers */
+       url('stgiga.github.io/UnifontEX/UnifontExMono.woff') format('woff'), /* Pretty Modern Browsers */
+       url('stgiga.github.io/UnifontEX/UnifontExMono.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('stgiga.github.io/UnifontEX/UnifontExMono.svg#UnifontExMono') format('svg'); /* Legacy iOS */
+}
