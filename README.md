@@ -37,21 +37,21 @@ Oh, and by the way: This is a passion project that I have worked on for the last
 
 In case you wonder why this repo was created a month early, that is so I could write the description to a heightened standard prior to release date, and decide on a name. Expect a better Github Pages site for this, among other things. Oh and the first link is the TTF.
 
-### [**Download**](http://stgiga.github.io/UnifontEX/UnifontExMono.ttf)
-### [TTF2PNG Build Download](http://stgiga.github.io/UnifontEX/UnifontExMono.png)
-### [BDF Download](http://stgiga.github.io/UnifontEX/UnifontExMono-16.bdf)
-### [UnifontEX PC-98 font BMP Download](http://stgiga.github.io/UnifontEX/UFEXPC98.BMP) 
-### [Apple iOS SVG Webfont version Download](http://stgiga.github.io/UnifontEX/UnifontExMono.svg)
-### [WOFF Download](http://stgiga.github.io/UnifontEX/UnifontExMono.woff)
-### [WOFF2 Download](http://stgiga.github.io/UnifontEX/UnifontExMono.woff2)
-### [FontForge SFD Download](http://stgiga.github.io/UnifontEX/UnifontExMonoSFD.7z)
-### [EOT Download](http://stgiga.github.io/UnifontEX/UnifontExMono.eot)
-### [macOS DFONT Download](http://stgiga.github.io/UnifontEX/UnifontExMonoDFONT.7z)
-### [OTB Download](http://stgiga.github.io/UnifontEX/UnifontExMono.otb)
+### [**Download**](UnifontExMono.ttf)
+### [TTF2PNG Build Download](UnifontExMono.png)
+### [BDF Download](UnifontExMono-16.bdf)
+### [UnifontEX PC-98 font BMP Download](UFEXPC98.BMP) 
+### [Apple iOS SVG Webfont version Download](UnifontExMono.svg)
+### [WOFF Download](UnifontExMono.woff)
+### [WOFF2 Download](UnifontExMono.woff2)
+### [FontForge SFD Download](UnifontExMonoSFD.7z)
+### [EOT Download](UnifontExMono.eot)
+### [macOS DFONT Download](UnifontExMonoDFONT.7z)
+### [OTB Download](UnifontExMono.otb)
 
 
-### [Proof-of-Concept SVGZ Download](http://stgiga.github.io/UnifontEX/UnifontExMono.svgz)
-### [Proof-of-Concept WOFF3 Download](http://stgiga.github.io/UnifontEX/UnifontExMono.woff3)
+### [Proof-of-Concept SVGZ Download](UnifontExMono.svgz)
+### [Proof-of-Concept WOFF3 Download](UnifontExMono.woff3)
 
 ### [Cross-browser UnifontEX Webfont Stylesheet Download](UnifontExMono.css)
 
