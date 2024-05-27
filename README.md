@@ -3,6 +3,8 @@ An extended fork of GNU Unifont with a focus on high compatibility (and accessib
 
 I've also made binary and C builds for the LVGL embedded display library, so now you can use it on even more embedded displays, and I've also made .js and .json versions for Typeface.js, plus FONTX2 Kanji and non-Kanji versions for DOS/V, as well as a C++ Uint8t file version that evidently some programs use.
 
+I also made a PostScript Type42 (PostScript-encapsulated TrueType) build for old classy printers.
+
 Basically, I've released builds for MANY formats, from the common (TrueType, which is no longer offered openly by upstream Unifont), to the most niche/obscure ones, of which BDF is the only one also offered by upstream Unifont. Stuff like the DFONT, BDF, OTB, WOFF1, EOT, and SVG versions are largely for legacy systems, because not everyone has the latest and greatest technology.
 
 ## Now, what DOES adding Upper into Unifont offer?
@@ -66,6 +68,7 @@ In case you wonder why this repo was created a month early, that is so I could w
 ### [Uint8_t C++ File Version Download](UnifontExMonoUint8tCPP.7z)
 ### [DOS/V FontX2 Kanji Version](UnifontExMonoKanji.fontx2)
 ### [DOS/V FontX2 Non-Kanji Version](UnifontExMonoAnk.fontx2)
+### [PostScript Type42 Version Download](UnifontExMonoT42.7z)
 
 Oh I am legally obligated to say that GNU Unifont is under GPL2 with font embedding exception and OFLv1.1, and can be found [here](https://unifoundry.com/unifont/index.html) and is by Roman Czyborra and Paul Hardy, et. al.
 
