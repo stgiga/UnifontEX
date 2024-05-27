@@ -64,8 +64,8 @@ In case you wonder why this repo was created a month early, that is so I could w
 ### [LVGL Binary Version Download](UnifontExMonoLVGL.font)
 ### [Typeface.js JS+JSON Version Download](UnifontExMonoTypefaceJS.7z)
 ### [Uint8_t C++ File Version Download](UnifontExMonoUint8tCPP.7z)
-### [FontX2 Kanji Version](UnifontExMonoKanji.fontx2)
-### [FontX1 Non-Kanji Version](UnifontExMonoAnk.fontx2)
+### [DOS/V FontX2 Kanji Version](UnifontExMonoKanji.fontx2)
+### [DOS/V FontX2 Non-Kanji Version](UnifontExMonoAnk.fontx2)
 
 Oh I am legally obligated to say that GNU Unifont is under GPL2 with font embedding exception and OFLv1.1, and can be found [here](https://unifoundry.com/unifont/index.html) and is by Roman Czyborra and Paul Hardy, et. al.
 
