@@ -71,6 +71,7 @@ In case you wonder why this repo was created a month early, that is so I could w
 ### [PostScript Type42 Version Download](UnifontExMonoT42.7z)
 ### [Adafruit_GFX Version Download](UnifontExMonoAdafruitGFX.7z)
 ### [LibreCAD LFF Version Download](UnifontExMonoLFF.7z)
+### [iOS Mobileconfig Version](UnifontExMono.mobileconfig)
 
 Oh I am legally obligated to say that GNU Unifont is under GPL2 with font embedding exception and OFLv1.1, and can be found [here](https://unifoundry.com/unifont/index.html) and is by Roman Czyborra and Paul Hardy, et. al.
 
