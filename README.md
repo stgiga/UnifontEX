@@ -3,7 +3,7 @@ An extended fork of GNU Unifont with a focus on high compatibility (and accessib
 
 I've also made binary and C builds for the LVGL embedded display library, so now you can use it on even more embedded displays, and I've also made .js and .json versions for Typeface.js, plus FONTX2 Kanji and non-Kanji versions for DOS/V, as well as a C++ Uint8t file version that evidently some programs use, as well as an Adafruit_GFX version.
 
-I also made a PostScript Type42 (PostScript-encapsulated TrueType) build for old classy printers as well as a LibreCAD LFF version.
+I also made a PostScript Type42 (PostScript-encapsulated TrueType) build for old classy printers as well as a LibreCAD LFF version, plus an iOS Mobileconfig version.
 
 Basically, I've released builds for MANY formats, from the common (TrueType, which is no longer offered openly by upstream Unifont), to the most niche/obscure ones, of which BDF is the only one also offered by upstream Unifont. Stuff like the DFONT, BDF, OTB, WOFF1, EOT, and SVG versions are largely for legacy systems, because not everyone has the latest and greatest technology.
 
