@@ -2,7 +2,7 @@ This folder contains builds of UnifontEX for Minecraft versions that support Tru
 
 > The `pf4` in `UnifontEXpf4.zip` means `Pack Format 4`, which is `1.13-1.14.4`
 
-> The `pf5` in ``UnifontEXpf5.zip` means `Pack Format 5`, which is `1.15-1.16.1`
+> The `pf5` in `UnifontEXpf5.zip` means `Pack Format 5`, which is `1.15-1.16.1`
 
 > The `pf6` in `UnifontEXpf6.zip` means `Pack Format 6`, which is `1.16.2-1.16.5`
 
