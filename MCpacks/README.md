@@ -1,5 +1,11 @@
 This folder contains builds of UnifontEX for Minecraft versions that support TrueType font loading (1.13+) but pre-date 1.20 adding the official Unifont .hex files.
 
+> The  `pf1` in `UnifontEXpf1.zip` means `Pack Format 1`, which is `1.6.1-1.8.9`
+
+> The `pf2` in `UnifontEXpf2.zip` means `Pack Format 2`, which is `1.9-1.10.2`
+
+> The `pf3` in `UnifontEXpf3.zip` means `Pack Format 3`, which is `1.11-1.12.2`
+
 > The `pf4` in `UnifontEXpf4.zip` means `Pack Format 4`, which is `1.13-1.14.4`
 
 > The `pf5` in `UnifontEXpf5.zip` means `Pack Format 5`, which is `1.15-1.16.1`
