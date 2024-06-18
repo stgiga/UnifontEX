@@ -26,6 +26,8 @@ Now for the version guide:
 
 > The `pf13` in `UnifontEXpf13.zip` means `Pack Format 13`, which is `1.19.4`
 
+WARNING: The Legacy Unicode PNG stuff is derpy, toy around and find out, and do so at your own risk, I used https://github.com/Hakdaw/Mineglyph as the converter, so if you can do better let me know what options to use. 
+
 For usage in a server resource pack config file line in 1.13, you want to do `https://stgiga.github.io/UnifontEX/MCpacks/UnifontEXpf4.zip`, for instance. If you're using something like Viaversion, you'd want it to give the relevant client versions the needed resource pack in an unskippable way. That way, if a 1.20+ player sends an above-Plane0 character, assuming it's in UnifontEX's character set (Unifont-JP 15.0.06 + Unifont 11.0.01 Upper, the highest you can go without HarfBuzz extensions that few apps support), it will display in 1.13-1.19.4 clients. I should also mention that font resource packs are not possible in Bedrock, so if you allow Bedrock players to connect, at best they will be forced to the device's native emoji set (on Android phones that support font switching by some means, UnifontEX installed as a UI font will work as one), but other Plane 1 characters will likely be forsaken. I say "at best" because Bedrock has a reputation of not working with higher-plane characters at all. 
 
 Viaversion can allow Java clients as early as 1.7 to connect, so players on decade-old versions like 1.7 and 1.8 (my favorite versions prior to TrueType support) won't see these. It may be possible to replace and extend the legacy PNGs, but I'm not sure how Plane 1 characters would work, let alone the Plane 2 Kanji or the Plane 3 Biang and Taito Han characters, or Plane 14 `Tags` + `Variation Selectors Supplement` characters.
