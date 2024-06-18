@@ -1,4 +1,8 @@
-This folder contains builds of UnifontEX for Minecraft versions that support TrueType font loading (1.13+) but pre-date 1.20 adding the official Unifont .hex files.
+This folder contains builds of UnifontEX for Minecraft versions that support TrueType font loading (1.13+), (and legacy PNG builds for 1.5-1.12.2) but pre-date 1.20 adding the official Unifont .hex files. Plane 1 characters work on Minecraft 1.16 and above, but Plane 0 characters are still up-to-date with 1.20 and 1.21. Plane 1 characters in supported versions go up to Unifont Upper 11.0.01 due to the limitations of most TrueType/OpenType renderers, so not everything in 1.20+ text works, but the lions' share does, and it's certainly better than stock. 
+
+Now for the version guide:
+
+> The `pf0` in `UnifontEXpf0.zip` means that it's a texture pack (`NOT` a `Resource Pack`), and it's for `1.5-1.5.2`.
 
 > The  `pf1` in `UnifontEXpf1.zip` means `Pack Format 1`, which is `1.6.1-1.8.9`
 
