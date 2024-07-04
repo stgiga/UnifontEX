@@ -7,7 +7,7 @@ I also made a PostScript Type42 (PostScript-encapsulated TrueType) build for old
 
 Basically, I've released builds for MANY formats, from the common (TrueType, which is no longer offered openly by upstream Unifont), to the most niche/obscure ones, of which BDF is the only one also offered by upstream Unifont. Stuff like the DFONT, BDF, OTB, WOFF1, EOT, and SVG versions are largely for legacy systems, because not everyone has the latest and greatest technology.
 
-#### Sleeker page (with sample text!) [**here**](sleek.htm)
+#### Sleeker page [**here**](sleek.htm)
 
 ## Now, what DOES adding Upper into Unifont offer?
 
