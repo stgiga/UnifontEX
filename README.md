@@ -10,7 +10,8 @@ Basically, I've released builds for MANY formats, from the common (TrueType, whi
 #### Sleeker page [**here**](sleek.htm)
 
 #### Sample Text:
-```Hello World! - English  
+```
+Hello World! - English  
 你好，世界❣ - Chinese  
 こんにちは、世界❣ - Japanese  
 안녕하세요, 세계! - Korean  
