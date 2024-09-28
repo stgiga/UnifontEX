@@ -18,7 +18,7 @@ Basically, I've released builds for MANY formats, from the common (TrueType, whi
 नमस्ते दुनिया! - Hindi
 🌍👋😊 - Emoji
 Unifont⅀𝕏 - Math
-⏸⏹⏺⏻⏼⏽⏾⏿ - Technical
+⏸⏹⏺⏻⏼⏽⏾⏿⮗ - Technical
 𝄠𝄡𝄢𝄣𝄤 - Music
 🃰🃱🃲🃳🃴🃵 - Tarot Cards
 🀠🀡🀢🀣🀤🀥🀦🀧🀨🀩🀪 - Mahjong
@@ -54,7 +54,7 @@ Unifont⅀𝕏 - Math
 🍛🍜🍝🍞🍟 - Foodstuffs
 📤📥📧📨📩📪📫📬📭📮 - Email States
 📱📲📳📴📵📶 - Cellphone Symbols
-💰💱💲💳💴💵💶💷💸 - Money
+💰💱💲💳💴💵💶💷💸₿₠ - Money
 ❠❡❢❣ - Fancy Punctuation
 ❀❁❂❃❄❅❆❇❈❉❊❋ - Dingbats
 🙠🙡🙢🙣🙤🙥🙦🙧 - Fleurons
@@ -62,7 +62,7 @@ Unifont⅀𝕏 - Math
 𐇰𐇱𐇲𐇳𐇴𐇵𐇶𐇷𐇸𐇹𐇺𐇻𐇼 - Phaistos
 …
 ``` 
-*You get the idea...*
+*You get the idea...* (Yes, the above demonstrates the Plane0+Plane1 offered by UnifontEX)
 
 ## Now, what DOES adding Upper into Unifont offer?
 
