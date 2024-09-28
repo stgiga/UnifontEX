@@ -9,6 +9,61 @@ Basically, I've released builds for MANY formats, from the common (TrueType, whi
 
 #### Sleeker page [**here**](sleek.htm)
 
+#### Sample Text:
+```Hello World! - English
+你好，世界❣ - Chinese
+こんにちは、世界❣ - Japanese
+안녕하세요, 세계! - Korean
+Здравствуй, мир! - Russian
+नमस्ते दुनिया! - Hindi
+🌍👋😊 - Emoji
+Unifont⅀𝕏 - Math
+⏸⏹⏺⏻⏼⏽⏾⏿ - Technical
+𝄠𝄡𝄢𝄣𝄤 - Music
+🃰🃱🃲🃳🃴🃵 - Tarot Cards
+🀠🀡🀢🀣🀤🀥🀦🀧🀨🀩🀪 - Mahjong
+🂐🂑🂒🂓 - Domino Tiles
+🜧🜥🜱⚴🜨⚤⚣⚢⮉ - LGBTQ+ Symbols
+✹🟃🟇✯🟍🟔⯌⯍※⁂ - Wingdings 2
+🢀🢁🢂🢃🢄🢅🢆🢇 - Arrows
+🛆🛇🛈🛉🛊 - Signage Symbols
+🟐🟑🟒🟓🟔🟕🟖🟗🟘 - Shapes
+🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩 - Dark Bubbled 
+🉠🉡🉣🉤🉥 - Chinese Seals
+🆛🆜🆝🆞🆟🆧🆨🆩 - TV Symbols
+🗔🗕🗖🗗🗘🗙🗚🗛 - UI Symbols
+🌑🌒🌓🌔🌕🌖🌗🌘 - Moon Phases
+♳♴♵♶♷♸♹ - Recycling Symbols
+♔♕♖♗♘♙♚♛♜♝♞♟ - Chess Pieces
+⛓⛔⛕⛖⛗⛘⛙⛚⛛⛜ - Road Signage
+⛰⛱⛲⛳⛴⛵⛷⛸⛹⛺- Travel
+㍱㍲㍳㍴㍵㍶㍷㍸㍹㍺ - Units
+ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿ - Light Bubbled
+♈︎♉︎♊︎♋︎♌︎♍︎♎︎♏︎♐︎♑︎♒︎♓︎ - Zodiac Star Signs
+ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻ - Roman Numerals
+𝋰𝋱𝋲𝋳 - Mayan Numerals
+⚋⚌⚍⚎⚏ - Trigrams
+⚀⚁⚂⚃⚄⚅🎲 - Dice
+♠♡♢♣♤♥♦♧ - Playing Card Suits
+⛀⛁⛂⛃ - Draughts
+☐🗴🗵🗶🗷🗸🗹 - Checkboxes
+🔀🔁🔂🔃🔄 - Looping Modes
+🔇🔈🔉🔊 - Volume Symbols
+🕠🕡🕢🕣🕤🕥🕦🕧 - Time
+🌡🌢🌣🌤🌥🌦🌧🌨🌩🌪🌫 - Weather
+🍛🍜🍝🍞🍟 - Foodstuffs
+📤📥📧📨📩📪📫📬📭📮 - Email States
+📱📲📳📴📵📶 - Cellphone Symbols
+💰💱💲💳💴💵💶💷💸 - Money
+❠❡❢❣ - Fancy Punctuation
+❀❁❂❃❄❅❆❇❈❉❊❋ - Dingbats
+🙠🙡🙢🙣🙤🙥🙦🙧 - Fleurons
+✀✁✂✃✄ - Scissors
+𐇰𐇱𐇲𐇳𐇴𐇵𐇶𐇷𐇸𐇹𐇺𐇻𐇼 - Phaistos
+…
+``` 
+*You get the idea...*
+
 ## Now, what DOES adding Upper into Unifont offer?
 
 Firstly: You gain the fancy letters intended for math but used online to make social media posts have fancier fonts. This includes Fraktur, which has its own ANSI escape code that is defined but rarely used. Those characters, and their bold versions via the bold flag, now work. 
