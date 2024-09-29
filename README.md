@@ -211,5 +211,6 @@ Also, to those who have used UnifontEX in games (at present Gem Frenzy, Ocean's 
 ## TL;DR: UnifontEX's use cases could fill a book (literally). This README is lagging my Firefox, so I'm not going to start listing more (not to mention I'm falling asleep at my keyboard so don't expect a SourceForge readme update today). Go enjoy UnifontEX! 
  
 ![UnifontEX](UnifontEXlogo.png "UnifontEX")
+![UnifontEX](UFEXsocial.png "UnifontEX")
 
 *In memory of Albrecht Biedl, the Berlin professor that the original creator of Unifont, Roman Cyzborra, according to his website, had as a thesis advisor, who passed away on December 16th, 2023. I'm glad he lived to see UnifontEX.*
