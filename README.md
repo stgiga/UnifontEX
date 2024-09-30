@@ -22,6 +22,7 @@ Hello World! - English
 Unifont⅀𝕏 - Math  
 𝕳𝔢𝖑𝔩𝖔 𝖜𝔬𝖗𝔩𝖉! - Fraktur  
 ℍ𝕖𝕝𝕝𝕠 𝕨𝕠𝕣𝕝𝕕! - Double-Struck  
+Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps  
 ⏸⏹⏺⏻⏼⏽⏾⏿⮗ - Technical  
 𝄠𝄡𝄢𝄣𝄤 - Music  
 🃰🃱🃲🃳🃴🃵 - Tarot Cards  
@@ -72,8 +73,11 @@ Unifont⅀𝕏 - Math
 𐄢𐄣𐄤𐄥𐄦𐄧𐄨𐄩𐄪 - Aegean Numbers  
 ₀₁₂₃₄₅₆₇₈₉ - Subscript Numbers  
 ⁰¹²³⁴⁵⁶⁷⁸⁹ - Superscript Numbers  
+ᴴᵉˡˡᵒ ᵂᵒʳˡᵈ! - Superscript ABCs  
 ⩇⩇:⩇⩇ - LCD zeroes  
-…   
+﹠﹡﹢﹣﹤﹥﹦ - Small Symbols  
+▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ - Checker  
+…
 ```
  
 *You get the idea...* (Yes, the above demonstrates the Plane0+Plane1 offered by UnifontEX.)
