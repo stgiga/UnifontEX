@@ -131,7 +131,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
 ⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
 ␠␡␢␣␤␥␦ - Control  
-￨￩￪￫￬￭￮ - Halfwidth    
+￨￩￪￫￬￭￮ - Halfwidth  
+⬛⬛⬛⬜⬜ - Loader  
 …
 ```
 ##### Tamagotchi Icons:
