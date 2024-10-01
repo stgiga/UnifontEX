@@ -131,10 +131,16 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
 ⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
 ␠␡␢␣␤␥␦ - Control  
-￨￩￪￫￬￭￮ - Halfwidth 	
+￨￩￪￫￬￭￮ - Halfwidth    
 …
 ```
- 
+##### Tamagotchi Icons:
+```
+🍴💡🎾💉🦆📟🗣🎭  
+🍴📟📖🎁🖂🚽🚪💓🏥🎭    
+📟😋🚽🎾💓🗣🏥🛋📖🎭  
+📟😋🚽🎾💓🗣🎁📺📖🎭  
+```
 *You get the idea...* (Yes, the above demonstrates the Plane0+Plane1 offered by UnifontEX.)
 
 ## Now, what DOES adding Upper into Unifont offer?
