@@ -129,6 +129,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
  ᴴᴰ ⚙ ❐ - Video Player  
 ⤝❖⤞ - Fancy Line  
 ▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
+⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
+␠␡␢␣␤␥␦ - Control  
 …
 ```
  
