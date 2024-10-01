@@ -131,6 +131,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
 ⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
 ␠␡␢␣␤␥␦ - Control  
+￨￩￪￫￬￭￮ - Halfwidth	 
 …
 ```
  
