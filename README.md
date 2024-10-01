@@ -127,6 +127,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ★ ☆ ★ ☆ ★ ☆ ★ ☆ - Stars  
 𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁𐄙𐄁 - Dots  
  ᴴᴰ ⚙ ❐ - Video Player  
+⤝❖⤞ - Fancy Line  
+▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
 …
 ```
  
