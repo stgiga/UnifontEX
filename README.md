@@ -84,7 +84,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ↻ ⏮⏸⏭ ↺ - Play Controls  
 ﹌﹌﹌﹌﹌ - Waves  
 【﻿⏻】📶🌐 - Fancy UI  
-⇆ㅤ ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻ - Player 2  
+⇆ ◁ ❚❚ ▷ ↻ - Player 2  
 ε(´｡•᎑•`)っ 💕 - Kaomoji 2  
 ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆ - Sky  
 ━━━━●───── - Seekbar  
