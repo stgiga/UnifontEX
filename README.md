@@ -142,7 +142,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 📟😋🚽🎾💓🗣🏥🛋📖🎭  
 📟😋🚽🎾💓🗣🎁📺📖🎭  
 ```
-*You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX.)
+*You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`.)
 
 ## Now, what DOES adding Upper into Unifont offer?
 
