@@ -76,10 +76,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ᴴᵉˡˡᵒ ᵂᵒʳˡᵈ! - Superscript ABCs  
 ⩇⩇:⩇⩇ - LCD zeroes  
 『⩇⩇:⩇⩇』 - LCD box  
-﹠﹡﹢﹣﹤﹥﹦ - Small Symbols  
-⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
-␠␡␢␣␤␥␦ - Control  
-￨￩￪￫￬￭￮ - Halfwidth	  
+﹠﹡﹢﹣﹤﹥﹦ - Small Symbols    
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ - Checker  
 ████▒▒▒▒▒▒30% - Loading Bar  
 𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 - Barcode  
@@ -132,6 +129,9 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
  ᴴᴰ ⚙ ❐ - Video Player  
 ⤝❖⤞ - Fancy Line  
 ▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
+⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
+␠␡␢␣␤␥␦ - Control  
+￨￩￪￫￬￭￮ - Halfwidth 	
 …
 ```
  
