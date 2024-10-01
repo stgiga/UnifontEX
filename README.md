@@ -89,7 +89,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆ - Sky  
 ━━━━●───── - Seekbar  
 ⚫⚫⚫⚪⚪ - Loading Circles  
-♥︎♥︎♥︎♥︎♥︎♥︎♡♡♡♡6️0️%▶ - Heart Load  
+♥︎♥︎♥︎♥︎♥︎♥︎♡♡♡♡60%▶ - Heart Load  
 ⣿⣿⣿⣀⣀ - Braille VU meter  
 ⫘⫘⫘ - Aesthetic Chains  
 ꒒০⌵୧♡ - Aesthetic Text  
