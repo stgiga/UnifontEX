@@ -77,6 +77,9 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⩇⩇:⩇⩇ - LCD zeroes  
 『⩇⩇:⩇⩇』 - LCD box  
 ﹠﹡﹢﹣﹤﹥﹦ - Small Symbols  
+⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
+␠␡␢␣␤␥␦ - Control  
+￨￩￪￫￬￭￮ - Halfwidth	  
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ - Checker  
 ████▒▒▒▒▒▒30% - Loading Bar  
 𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 - Barcode  
@@ -129,9 +132,6 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
  ᴴᴰ ⚙ ❐ - Video Player  
 ⤝❖⤞ - Fancy Line  
 ▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
-⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
-␠␡␢␣␤␥␦ - Control  
-￨￩￪￫￬￭￮ - Halfwidth	 
 …
 ```
  
