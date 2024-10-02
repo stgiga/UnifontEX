@@ -115,6 +115,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ✎﹏﹏﹏﹏﹏﹏﹏ - Writing  
 ⛆⛆⛆⛆ - Raining  
 ┴┬┴┬┴┬┴┬┴┬┴┬┴┬ - Bricks  
+╧╤╧╤╧╤╧╤╧╤╧╤╧╤╧╤ - Bricks 2  
 ▂▃▄▅▆▇██▇▆▅▄▃▂ - Triangle  
 △▽△▽△▽△▽△▽△▽△▽△▽ - Tri. 2  
 ░▒▓█▓▒░░▒▓█▓▒░ - Shading  
