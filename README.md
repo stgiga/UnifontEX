@@ -25,6 +25,7 @@ Unifont⅀𝕏 - Math
 Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps  
 ⏸⏹⏺⏻⏼⏽⏾⏿⮗ - Technical  
 𝄠𝄡𝄢𝄣𝄤 - Music  
+🃜🃚🃖🃁🂭🂺 - Playing Cards  
 🃰🃱🃲🃳🃴🃵 - Tarot Cards  
 🀠🀡🀢🀣🀤🀥🀦🀧🀨🀩🀪 - Mahjong  
 🂐🂑🂒🂓 - Domino Tiles  
@@ -92,7 +93,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ♥︎♥︎♥︎♥︎♥︎♥︎♡♡♡♡60%▶ - Heart Load  
 ⣿⣿⣿⣀⣀ - Braille VU meter  
 ⫘⫘⫘ - Aesthetic Chains  
-꒒০⌵୧♡ - Aesthetic Text  
+꒒০⌵୧♡˙ᵕ˙ - Aesthetic Text  
 ၊၊||၊|။||||| - Soundwaves  
  ▁▂▃▄▅▆▇▉ - Volume Triangle  
 ≪•◦ ❈ ◦•≫ - Aesthetic Break
@@ -134,6 +135,11 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ␠␡␢␣␤␥␦ - Control  
 ￨￩￪￫￬￭￮ - Halfwidth  
 ⬛⬛⬛⬜⬜ - Loader  
+╰┈➤🔊-vc-❶➤ - VC 1  
+╰┈➤🔊-vc-❷➤ - VC 2  
+─〇───── - Seekbar 3  
+⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ - Math2  
+📖☕🌧🎧 - Aesthetic Emoji  
 …
 ```
 ##### Tamagotchi Icons:
