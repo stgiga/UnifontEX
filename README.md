@@ -74,7 +74,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙 - UI 3  
 🐧🖧🖩🖭🖷🗀🗎⊞ - OS Symbols 1  
 🗑🗜🗺 📀📧📆ᯤ - OS Symbols 2  
-🔂📫📳🔕🕩🕼🖀🖄🖨🔆📸📈 - Phone  
+🔂📫📳🔕🕩🕼🖀🖄🖨🔆📸📈🤳 - Phone  
 🖹🖼🗞🛒🛏🛫🚲📦📧🏞🏟🏝 - Search  
 🏙🏔🎶🎮🎭🎬🎪🌂🌐🚙 - Search 2  
 🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
