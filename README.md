@@ -182,7 +182,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⤝❖⤞ - Fancy Line  
 ▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
 ⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊ - OCR  
-␠␡␢␣␤␥␦ - Control  
+␘␠␡␢␣␤␥␦ - Control  
 ￨￩￪￫￬￭￮ - Halfwidth  
 ⬛⬛⬛⬜⬜ - Loader  
 ╰┈➤🔊-vc-❶➤ - VC 1  
