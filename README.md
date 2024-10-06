@@ -40,7 +40,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⬻⤖⬼⤗⬽⤘⇜⇝⬳⟿◇⟪⟫ - Coding Lig3  
 ⋘⋙≮≯⩽⩾≡≢≣⊥⊦⊨⊲⊳⩨⩩ - Coding Lg4  
 ⩵⩶⧏⧐⏴⏵⧣⧥⟨⟩⟠⊬⧺⧻ - Coding Lg5  
-≔⩴⤙⤚⤛⤜➾↜↝↤↦🡘 - Coding Lig6
+≔⩴⤙⤚⤛⤜➾↜↝↤↦🡘⊣ - Coding Lg6
 ⇷⇸⇹↔⇺⇻⇼↤↦⟻⟼⇐⇒⇍⇏ - Coding Lig7  
 ⬴⤀⬵⤁⬶⤅ - Code Ligature Arrows    
 ﬀﬁﬂﬃﬄﬅﬆﬓﬔﬕﬖﬗ - Text Ligatures
