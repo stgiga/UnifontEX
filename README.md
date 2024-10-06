@@ -49,7 +49,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 💀😮😄😣🔨🎀🐾🐶🐱🐰🐦🐮🐷 - Game11  
 🐟🐞❤💧√🦑🐙❂⎃🅻🆁ⓁⓇ◙ - Game12  
 ⧃⧁⧀⯽➖🠴🠶🠵🠷☰🗤✣❇ - Game13  
-🅛🅡✢✛✙⌨🎮🕹️👾🖥️🖱🖰⤓👕 - Game 14  
+🅛🅡✢✛✙⌨🎮🕹️👾🖥️🖱🖰⤓👕 - Game14  
 🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩 - Dark Bubbled  
 🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉 - Dark Boxed  
 🉠🉡🉣🉤🉥 - Chinese Seals  
