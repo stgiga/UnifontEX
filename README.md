@@ -200,7 +200,9 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 《《《》》》 - Angles  
 ⍑ᒷ|:|:ᒍ ▭ ∴ᒍ∷|:↸․■․ - SGA  
 䴀酯靉깱밽訊눀䴁 - B3K
-시ﾤㅿￌ본노〮톧호〯 - Korean 2    
+시ﾤㅿￌ본노〮톧호〯 - Korean 2
+ｼｰｻｲﾄ゙ﾗｲﾅｰ - Halfwidth Kana  
+カタカナ - Fullwidth Kana  
 …  
 ``` 
 ##### Tamagotchi Icons:
