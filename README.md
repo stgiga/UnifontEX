@@ -74,7 +74,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉 - Dark Boxed  
 🉠🉡🉣🉤🉥 - Chinese Seals  
 🉀🉁🉂🉃🉄🉅🉆🉇🉈🉐🉑 - ARIB 1  
-🈰🈱🈲🈳🈴🈵🈶🈷🈸🈹🈺🈻 - ARIB 2  
+🈰🈱🈳🈴🈵🈶🈷🈸🈹🈺🈻🈁🈂 - ARIB 2  
 🆛🆜🆝🆞🆟🆧🆨🆩⦷ - TV Symbols  
 🗔🗕🗖🗗🗘🗙🗚🗛⌘ - UI Symbols  
 ⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛ - UI Symbols 2  
