@@ -79,10 +79,10 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🈰🈱🈳🈴🈵🈶🈷🈸🈹🈺🈻🈁🈂 - ARIB 2  
 🆛🆜🆝🆞🆟🆧🆨🆩⦷ - TV Symbols  
 🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳 - UI Symbols  
-⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛ - UI Symbols 2  
+⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛⎉⎆⎋⎌⎙ - UI 2  
 🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙 - UI 3  
 🐧🖧🖩🖭🖷🗀🗎⊞ - OS Symbols 1  
-🗑🗜🗺 📀📧📆ᯤ⊟ - OS Symbols 2  
+🗑🗜🗺 📀📧📆ᯤ⊟⎗⎘⎀🖺🖽🖾 - OS 2  
 🔂📫📳🔕🕩🕼🖀🖄🖨🔆📸📈🤳 - Phone  
 🖹🖼🗞🛒🛏🛫🚲📦📧🏞🏟🏝 - Search  
 🏙🏔🎶🎮🎭🎬🎪🌂🌐🚙 - Search 2  
