@@ -78,7 +78,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🉀🉁🉂🉃🉄🉅🉆🉇🉈🉐🉑 - ARIB 1  
 🈰🈱🈳🈴🈵🈶🈷🈸🈹🈺🈻🈁🈂 - ARIB 2  
 🆛🆜🆝🆞🆟🆧🆨🆩⦷ - TV Symbols  
-🗔🗕🗖🗗🗘🗙🗚🗛⌘ - UI Symbols  
+🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳 - UI Symbols  
 ⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛ - UI Symbols 2  
 🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙 - UI 3  
 🐧🖧🖩🖭🖷🗀🗎⊞ - OS Symbols 1  
