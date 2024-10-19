@@ -80,14 +80,14 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🆛🆜🆝🆞🆟🆧🆨🆩⦷ - TV Symbols  
 🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳 - UI Symbols  
 ⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛⎉⎆⎋⎌⎙ - UI 2  
-🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙 - UI 3  
+🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙📋 - UI 3  
 🐧🖧🖩🖭🖷🗀🗎⊞ - OS Symbols 1  
 🗑🗜🗺 📀📧📆ᯤ⊟⎗⎘⎀🖺🖽🖾 - OS 2  
 🔂📫📳🔕🕩🕼🖀🖄🖨🔆📸📈🤳 - Phone  
 🖹🖼🗞🛒🛏🛫🚲📦📧🏞🏟🏝 - Search  
 🏙🏔🎶🎮🎭🎬🎪🌂🌐🚙 - Search 2  
 🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
-📌📍📎🖇📏📐✂ - Office Symbols 
+📌📍📎🖇📏📐✂🖈 - Office Symbols 
 🥼🔬🧬🧫🧪 - Science Symbols  
 🌑🌒🌓🌔🌕🌖🌗🌘 - Moon Phases  
 ♳♴♵♶♷♸♹ - Recycling Symbols  
@@ -221,7 +221,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ｼｰｻｲﾄ゙ﾗｲﾅｰ - Halfwidth Kana  
 カタカナ - Fullwidth Kana  
 ☕📚📖✍🎧 - Writing 2   
-🌎📶🧠📈🔎📉🧮 - Stats  
+🌎📶🧠📈🔎📉🧮📊 - Stats  
 …  
 ``` 
 ##### Tamagotchi Icons:
