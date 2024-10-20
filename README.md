@@ -228,7 +228,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⍑ᒷ|:|:ᒍ ▭ ∴ᒍ∷|:↸․■․ - SGA
 ⏃⏚☊⎅⟒⎎☌ - Enderwalk  
 ⊑⟟⟊☍⌰⋔⋏⍜⌿ - Enderwalk 2
-⍾⍀⌇⏁⎍⎐⍙⌖⊬⋉ - Ender3  
+⍾⍀⌇⏁⎍⎐⍙⊬⋉ - Ender3  
 䴀酯靉깱밽訊눀䴁 - B3K
 시ﾤㅿￌ본노〮톧호〯 - Korean 2
 ｼｰｻｲﾄ゙ﾗｲﾅｰ - Halfwidth Kana  
