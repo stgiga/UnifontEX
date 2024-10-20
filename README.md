@@ -122,6 +122,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⚀⚁⚂⚃⚄⚅🎲 - Dice  
 ♠♡♢♣♤♥♦♧ - Playing Card Suits  
 ⛀⛁⛂⛃ - Draughts  
+☗⛊☖⛉ - Shogi  
 ☐🗴🗵🗶🗷🗸🗹🔘 - Checkboxes  
 🔀🔁🔂🔃🔄 - Looping Modes  
 🔇🔈🔉🔊 - Volume Symbols  
