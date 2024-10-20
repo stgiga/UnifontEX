@@ -116,9 +116,16 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🄠🄡🄢🄣🄤🄥🄦🄧🄨🄩 - Parenthesesed  
 ⑴⑵⑶⑷⑸⑹⑺⑻⑼ - Parenthesesed 2      
 ♈♉♊♋♌♍♎♏♐♑♒♓ - Zodiac Star Signs  
+☿♀♁♂♃♄♅⛢♆ - Zodiac Planet Signs
+♇⯓⯔⯕⯖⯗ - Zodiac Pluto Signs
+⎓⏚⏛⏦⏧⎏⎐ - Electric Symbols  
+🗺🌍🌎🌏🌐 - Earth Symbols  
 ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻ - Roman Numerals  
 𝋰𝋱𝋲𝋳 - Mayan Numerals  
-⚋⚌⚍⚎⚏ - Trigrams  
+⚋⚌⚍⚎⚏ - Divination  
+⚊⚋𝌀𝍓𝍔𝍕 - Divination 2  
+⚌⚍⚎⚏𝌁𝌂𝌃𝌄𝌅 - Digrams  
+☰☱☲☳☴☵☶☷ - Trigrams  
 ⚀⚁⚂⚃⚄⚅🎲 - Dice  
 ♠♡♢♣♤♥♦♧ - Playing Card Suits  
 ⛀⛁⛂⛃ - Draughts  
