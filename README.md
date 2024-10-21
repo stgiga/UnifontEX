@@ -127,8 +127,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ☿♀♁♂♃♄♅⛢♆ - Zodiac Planet Signs
 ♇⯓⯔⯕⯖⯗ - Zodiac Pluto Signs
 ⎓⏚⏛⏦⏧⎏⎐⍼ - Electric Symbols  
-🗺🌍🌎🌏🌐 - Earth Symbols  
-ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻ - Roman Numerals  
+🗺🌍🌎🌏🌐 - Planet Earth Symbols  
+ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻⅼⅽⅾⅿ - Roman Numerals  
 𝋰𝋱𝋲𝋳 - Mayan Numerals  
 ⚋⚌⚍⚎⚏ - Divination  
 ⚊⚋𝌀𝍓𝍔𝍕 - Divination 2  
