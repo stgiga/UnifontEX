@@ -241,7 +241,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 䴀酯靉깱밽訊눀䴁 - B3K
 시ﾤㅿￌ본노〮톧호〯 - Korean 2
 ｼｰｻｲﾄ゙ﾗｲﾅｰ - Halfwidth Kana  
-カタカナ - Fullwidth Kana  
+カタカナ - Fullwidth Kana
+㌬㍐㍑㍒㍓㍔㍕㍖㍗ - Kana  
 ☕📚📖✍🎧 - Writing 2   
 🌎📶🧠📈🔎📉🧮📊 - Stats  
 …  
