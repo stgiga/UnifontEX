@@ -39,6 +39,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ∀∃∄∴∵∎¬∧∨⊼⊻ - MathLogic  
 ⌅⌆∝∶∷∥∦⟂⦜∠∡ - Geometry  
 ∑∫π²∞ - Math Equation  
+⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞⅟ - Fractions  
 ⬧⧫♑♓♑♋ - Wingdings 1 Font  
 ✹🟃🟇✯🟍🟔⯌⯍※⁂ - Wingdings 2  
 ⌥🡘🡓🡐🡙🡘◀⮃⇪ - Wingdings 3  
