@@ -96,7 +96,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
 🖉🖊🖋🖌🖍✎✏✐✑✒ - Pens  
 📌📍📎🖇📏📐✂🖈 - Office Symbols  
-🥼🔬🧬🧫🧪⌬🔍🔭 - Science Symbols  
+🥼🔬🧬🧫🧪⌬🔍🔭⌭⏨ - Science Symbols  
 🌑🌒🌓🌔🌕🌖🌗🌘🌝🌛🌜 - Moon Phases  
 ♳♴♵♶♷♸♹ - Recycling Symbols  
 ⎾⎿⏀⏁⏂⏃⏄⏅⏆⏇⏈⏉⏊⏋⏌ - Dental  
@@ -119,7 +119,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ♈♉♊♋♌♍♎♏♐♑♒♓ - Zodiac Star Signs  
 ☿♀♁♂♃♄♅⛢♆ - Zodiac Planet Signs
 ♇⯓⯔⯕⯖⯗ - Zodiac Pluto Signs
-⎓⏚⏛⏦⏧⎏⎐ - Electric Symbols  
+⎓⏚⏛⏦⏧⎏⎐⍼ - Electric Symbols  
 🗺🌍🌎🌏🌐 - Earth Symbols  
 ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻ - Roman Numerals  
 𝋰𝋱𝋲𝋳 - Mayan Numerals  
@@ -145,7 +145,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 📱📶⌚🎧🛡🔒⚡🔋⏏⏎⊗⊖⊕ - Tech Symbols  
 🔠🔡🔢🔣🔤 - Input Type Symbols  
 💰💱💲💳💴💵💶💷💸₿₠ - Money  
-❠❡❢❣ - Fancy Punctuation  
+❠❡❢❣⍻ - Fancy Punctuation  
 ❀❁❂❃❄❅❆❇❈❉❊❋ - Dingbats  
 🗨🗩💬🗪🗫🗬🗭💭 - Speech and Thought  
 🙠🙡🙢🙣🙤🙥🙦🙧 - Fleurons  
