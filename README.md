@@ -242,7 +242,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 시ﾤㅿￌ본노〮톧호〯 - Korean 2
 ｼｰｻｲﾄ゙ﾗｲﾅｰ - Halfwidth Kana  
 カタカナ - Fullwidth Kana
-㌬㍐㍑㍒㍓㍔㍕㍖㍗ - Kana  
+㌬㍐㍑㍒㍓㍔㍕㍖㍗ - Kana
+㋿㍻㍼㍽㍾㍿㌣㌐ - JP Lig  
 ☕📚📖✍🎧 - Writing 2   
 🌎📶🧠📈🔎📉🧮📊 - Stats  
 …  
