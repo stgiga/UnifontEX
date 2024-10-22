@@ -58,9 +58,9 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ≔⩴⤙⤚⤛⤜➾↜↝↤↦🡘⊣ - Coding Lg6  
 ⇷⇸⇹↔⇺⇻⇼↤↦⟻⟼⇐⇒⇍⇏ - Coding Lig7  
 ⫻⫽⟤⟥∥∷⧴⧧⧶⭃⭺⭼ - Coding Lig8  
-⥢⥤⤝⤞⤟⤠⬾⁇‥…‼⁑⹔⸚ - Coding Lig9  
+⥢⥤⤝⤞⤟⤠⬾⁇‥…‼⁑⹔⸚⊩⊪ - Code Lig9  
 ⬴⤀⬵⤁⬶⤅ᕁ⚋𝌀𝌅‖╠↔ - Code Lig10   
-⬿⤳↫↬↩↪⇷⇸⇹↚↛🤀Ｈ∧∨ - Coding Lig11  
+⬿⤳↫↬↩↪⇷⇸⇹↚↛🤀Ｈ∧∨⊭⊯ - Code Lig11  
 ﬀﬁﬂﬃﬄﬅﬆﬓﬔﬕﬖﬗ - Text Ligatures  
 ◢◣◤◥◖◗﹙﹚╱╲⎇≠␤【】﴿༻- Powerline  
 🟐🟑🟒🟓🟔⯂⯃⯄⯊⯋⌧⌦⎔⏣ - Shapes  
