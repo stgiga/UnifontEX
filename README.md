@@ -114,7 +114,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ㉈㉉㉊㉋㉌㉍㉎㉏ - JP Speed Signs   
 ⛓⛔⛕⛖⛗⛘⛙⛚⛛⛜ - Road Signage  
 ⛰⛱⛲⛳⛴⛵⛷⛸⛹⛺- Travel  
-㍱㍲㍳㍴㍵㍶㍷㍸㍹㍺㋎㋍ - Units  
+㍱㍲㍳㍴㍵㍶㍷㍸㍹㍺㋎㋍㎜㋌ - Units  
 ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ - CJK Moons    
 ㊀㊁㊂㊃㊄㊅㊆㊇㊈㊉ - Han Numbers  
 ㉄㉅㉆㉇㊊㊋㊌㊍㊎㊏ - Circled Han  
