@@ -254,8 +254,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 カタカナ - Fullwidth Kana  
 ㌬㍐㍑㍒㍓㍔㍕㍖㍗ - Kana  
 ㋿㍻㍼㍽㍾㍿㌣㌐ - JP Lig  
-⿐⿑⿒⿓⿔⿕ - Kangxi  
 ⻰⻱⻲⻳ - CJK Radicals  
+⿐⿑⿒⿓⿔⿕ - Kangxi  
 ☕📚📖✍🎧 - Writing 2   
 🌎📶🧠📈🔎📉🧮📊 - Stats  
 …  
