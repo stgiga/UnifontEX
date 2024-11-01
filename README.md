@@ -38,7 +38,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ×÷±∓≈≠√∛∜∑∫∮∂ƒ - Math 2  
 αβδεθλμπφψΩℇ⯹ - Math 3  
 ∅∈∉⊂⊆∪∩≤≥ - Math Sets  
-∀∃∄∴∵∎¬∧∨⊼⊻ - MathLogic  
+∀∃∄∴∵∎¬∧∨⊼⊻ - Math Logic  
 ⌅⌆∝∶∷∥∦⟂⦜∠∡ - Geometry  
 ∑∫π²∞ - Math Equation  
 ⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞⅟↉ - Fractions  
