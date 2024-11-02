@@ -58,7 +58,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⋘⋙≮≯⩽⩾≡≢≣⊥⊦⊨⊲⊳⩨⩩ - Coding Lg4  
 ⩵⩶⧏⧐⏴⏵⧣⧥⟨⟩⟠⊬⧺⧻ - Coding Lg5  
 ≔⩴⤙⤚⤛⤜➾↜↝↤↦🡘⊣ - Coding Lg6  
-⇷⇸⇹↔⇺⇻⇼↤↦⟻⟼⇐⇒⇍⇏ - Coding Lig7  
+⇷⇸⇹↔⇺⇻⇼↤↦⟻⟼⇐⇒⇍⇏⊫ - Coding Lg7  
 ⫻⫽⟤⟥∥∷⧴⧧⧶⭃⭺⭼⇽⇾ - Code Lig8  
 ⥢⥤⤝⤞⤟⤠⬾⁇‥…‼⁑⹔⸚⊩⊪ - Code Lig9  
 ⬴⤀⬵⤁⬶⤅ᕁ⚋𝌀𝌅‖╠↔ - Code Lig10   
