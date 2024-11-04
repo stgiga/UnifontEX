@@ -470,6 +470,26 @@ UnifontEX would probably look cool in a synthesizer or graphing calculator too, 
 
 Of course, if you actually use UnifontEX in something, PLEASE let me know. It took a decade to make. The amount of revisions and prototypes are many. I started UnifontEX when I was a tween, and now I'm in college. I've used UnifontEX academically on several occasions. Now, I should mention that UnifontEX needs RegEdit to show up as a Microsoft Word math font, but LibreOffice doesn't need that. LibreOffice also is more-graceful in hunting for codepoints. Linux and Android handle it better than Windows as a UI font.
 
+UnifontEX is a TTF/OTF polyglot, something I call `PolyType`. It's structure is such that it's both definitively TrueType and definitively OpenType. This helps it work in more places. Also the Panose table was filled with reasonable values, among other tables, and UnifontEX2 will retain these.
+After all, it's a retrofit. Also BDF and SVG(Z) support over 65535 glyphs too. The trouble is certain other formats. 
+I'm now wondering whether or not I should get HL2DM or CS:S to support UnifontEX as a HUD font. I know that Garry's Mod is a mess here. I'm also planning on getting it to work in my retro-styled game I'm beginning development of, in conjunction with my JummBox SoundFont to give a truly retro feel. They go well together.
+
+I'd be *really* curious to see how a vector UnifontEX handles the Galmuri Gothic Hangul. They just have a distinctive shape compared to other Unifont Hangul from other versions. It just *works*. Also I feel like UnifontEX should be the new JP text art font of choice rather than MS PGothic or Mona. 
+Actually, `not` *just* Japanese text art.
+Rather, Unicode text art. UnifontEX is Certainly less janky (PUA usage for example) than other fonts people do text art with. Also I'm not changing the glyph shapes or sizes. Not to mention it's got all sorts of helpful tables and characters.
+
+I actually feel like doing some TTRPG tables with UnifontEX, because by the time you get to d120 tables, you need something monospaced. Now, I can have some fun with pictographs too. Using UnifontEX in a manuscript is something I would do, as well as a roguelike, and in that I could actually use pictographs in it. UnifontEX with its Plane0+Plane1 coexistence is excellent for use in text-based games, even MUD and MUCK ones.
+Also UnifontEX works quite well in print.
+
+Honestly at this point I use UnifontEX as a substitute for my illegible handwriting.
+It has enough symbols to be able to do it.
+This was actually one of its first uses.
+Also, UnifontEX has the Twitter X in it, for better or for worse. Technically speaking, UnifontEX *IS* an emoji set. It's just a rather-curious one. But it's pretty much the ONLY one you can even hope to write papers with in school. Just avoid writing your entire paper in emoji or such.
+I take it that don't need to explain why.
+
+When it comes to UnifontEX, *use it well*.
+There's SO much you can do with its symbols, including building a GUI in only text. Even such an OS is possible as well.
+
 Oh, and fun fact: using SVG-in-OpenType back in 2018 didn't work because it made glyphs impossible to colorize and a 50MiB TTF. I also have an interesting idea of eventually, with enough money from working in the tech sector, commissioning a font foundry to make a vector font that has UnifontEX (or UnifontEX2 if affordable) characters, but is semi-serif (to keep the mathematical sans-serif from being homoglyphs), has zero homoglyphs, has identical spacing to UnifontEX (I guess that potentially rules out UnifontEX2 given upstream Unifont edits glyph widths sometimes), and has UnifontEX's fancy tables and such. Obviously, we DO want to differentiate it from Unifont's characteristic etl16 styling to avoid *problems*. Namely angering the FSF. Oh and to *further* not anger them, I intend to make the foundry *not* anger them *as well*. I mean, they'll probably hate not being able to charge out the nose for 65417 glyphs, but given my own personal stance on shareware that doesn't exactly move me. Perhaps I should frame this whole thing as more of a "public good" type of font project, maybe get the ISO/IEC involved. Perhaps. I'm nowhere near the relevant stage in my life yet where I can pay a font company enough to do this, and even then, designing 65417 glyphs is going to take eons. It may basically turn into Noto-lite at this point. But that's not exactly a bad thing either. Noto *is* too large, and too-fragmented. Something that is NOT as thicc as Noto would do a world of good, especially when it can scale smoothly everywhere. Also, CFF is such a mess that I'd prefer to avoid it. Please suggest some name ideas for the font in the Discussions section. Oh and seeing UnifontEX or its descendants (especially) on signage would be cool.  
 
 Additionally, all the circled and boxed letters+numbers, the checkboxes, radio buttons (`🔘`), check marks, X marks, the number+dot/comma, etc. al. and the consistent font pixel size make using UnifontEX for *creating* school assignments, surveys, or polls very attractive (especially anything in Scantron style.) Oh and yes, I've physically printed UnifontEX documents and they look fine. It *is* after all, the size recommended for essay text, and the font size for California large-print medicine bottle labels.
