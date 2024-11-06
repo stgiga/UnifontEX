@@ -340,13 +340,13 @@ In case you wonder why this repo was created a month early, that is so I could w
 #### [ALL formats in one 7z](https://UnifontEX.sourceforge.io/UnifontEX.7z)
 #### [ALL formats in one Zip](https://UnifontEX.sourceforge.io/UnifontEX.zip)
 
-#### [HarfBuzz Wasm Shaper LLaMa TTF Build](https://unifontex.sourceforge.io/WasmShaperBuilds/LLM/LLMUnifontExMono-VF.otf)
-#### [HarfBuzz Wasm Shaper German-to-English MTL TTF Build](https://unifontex.sourceforge.io/WasmShaperBuilds/MTL/en2deUnifontExMono-VF.otf)
-#### [HarfBuzz Wasm Shaper Brainfck Interpreter TTF Build](WasmShaperBuilds/CodeInterpreter/BFUnifontExMono.ttf)
-#### [HarfBuzz Wasm Shaper Calculator TTF Build](WasmShaperBuilds/Other/CalcUnifontExMono.ttf)
+##### [**HarfBuzz Wasm Shaper LLaMa TTF Build**](https://unifontex.sourceforge.io/WasmShaperBuilds/LLM/LLMUnifontExMono-VF.otf)
+##### [**HarfBuzz Wasm Shaper German-to-English MTL TTF Build**](https://unifontex.sourceforge.io/WasmShaperBuilds/MTL/en2deUnifontExMono-VF.otf)
+##### [**HarfBuzz Wasm Shaper Brainfck Interpreter TTF Build**](WasmShaperBuilds/CodeInterpreter/BFUnifontExMono.ttf)
+##### [**HarfBuzz Wasm Shaper Calculator TTF Build**](WasmShaperBuilds/Other/CalcUnifontExMono.ttf)
 
-#### [Unifont-JP 15.0.06-to-UnifontEX TrueType XDelta](UnifontExMono.xdelta)
-#### [Unifont-JP 15.0.06-to-UnifontEX BDF XDelta](UnifontExMono-16.xdelta)
+###### [**Unifont-JP 15.0.06-to-UnifontEX TrueType Upgrade XDelta**](UnifontExMono.xdelta)
+###### [**Unifont-JP 15.0.06-to-UnifontEX BDF Upgrade XDelta**](UnifontExMono-16.xdelta)
 
 Oh I am legally obligated to say that GNU Unifont is under GPL2 with font embedding exception and OFLv1.1, and can be found [here](https://unifoundry.com/unifont/index.html) and is by Roman Czyborra and Paul Hardy, et. al.
 
