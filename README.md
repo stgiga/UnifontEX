@@ -353,7 +353,7 @@ Also, regarding the above, I am NOT in favor of anyone engaging in harassment wh
 
 I recently learned that HarfBuzz has been extending the TrueType/OpenType format to support over 65535 glyphs as well as make TrueType do BOTH cubic and quadratic outlines. It does require renderer updates though.
 
-HarfBuzz ALSO supports WebAssembly code, and some builds that use it are here, as well as the XDelta ("UnifontExMono.xdelta" turns the Unifont-JP 15.0.06 TrueType version into UnifontEX's TrueType version, and "UnifontExMono-16.xdelta" turns the Unifont-JP 15.0.06 BDF version into UnifontEX's BDF version. Both use the latest XDelta) Unifont-to-UnifontEX upgrade patches:
+HarfBuzz ALSO supports WebAssembly code, and some builds that use it are here, as well as the XDelta ("UnifontExMono.xdelta" turns the Unifont-JP 15.0.06 TrueType version into UnifontEX's TrueType version, and "UnifontExMono-16.xdelta" turns the Unifont-JP 15.0.06 BDF version into UnifontEX's BDF version. Both use the latest XDelta) Unifont-to-UnifontEX upgrade patches, and a BWTC32Key ALL-formats tarball:
 ### [**HarfBuzz Wasm Shaper LLaMa TTF Build**](https://unifontex.sourceforge.io/WasmShaperBuilds/LLM/LLMUnifontExMono-VF.otf)
 ### [**HarfBuzz Wasm Shaper German-to-English MTL TTF Build**](https://unifontex.sourceforge.io/WasmShaperBuilds/MTL/en2deUnifontExMono-VF.otf)
 ### [**HarfBuzz Wasm Shaper Brainfck Interpreter TTF Build**](WasmShaperBuilds/CodeInterpreter/BFUnifontExMono.ttf)
@@ -361,6 +361,13 @@ HarfBuzz ALSO supports WebAssembly code, and some builds that use it are here, a
 
 #### [**Unifont-JP 15.0.06-to-UnifontEX TrueType Upgrade XDelta**](UnifontExMono.xdelta)
 #### [**Unifont-JP 15.0.06-to-UnifontEX BDF Upgrade XDelta**](UnifontExMono-16.xdelta)
+##### [ALL formats in one BWTC32Key Tarball](https://UnifontEX.sourceforge.io/UnifontEX.B3K)
+
+I didn't upload the PSP format stuff because font edits on PSPs can cause crashes randomly, and I had to generate Chinese fonts (hacked Japanese format) due to lack of software, AND no Korean PSP font maker exists.
+I didn't do Nintendo's BFTTF/BFOTF because there's 3 types each, AND they're just simple XORs for which converters exist, AND because it may be a bad idea (see also Sony, I mean, they sued geohot) given certain factors. I don't need extra chaos to happen while I'm out-of-commission. If you want to make these builds yourself, I can't stop you. On that note, the repo may potentially be controlled by someone I trust who is not in my region in the event things go REALLY bad and I am no longer around. I don't know if archiving the repository affects the URL (or doing a transfer as a successor) for the Github Pages link. I instruct users with an Archive.org account to archive THIS URL
+[https://stgiga.github.io/UnifontEX](https://stgiga.github.io/UnifontEX) with ALL checkboxes checked in the Wayback Machine's "Save Page Now" button, just like I've been doing, so that it gets ALL the outlinks, some to places like [https://UnifontEX.sourceforge.io](https://UnifontEX.sourceforge.io) and such.
+
+Why am I focused on archival? Well, in 2025 is when ICANN and IANA will make a decision about the fate of .io domains, potentially making URLs change, and that combined with me not being around to maintain them would mean links to UnifontEX or my other stuff may possibly fail. So I recommend getting and saving things while they're hot. Also, I've described in a section below about various plans for UnifontEX's future and how to go about them, for people who wish to grab the torch. If by some miracle all this takes off while I'm away and I'm in a position where I can come back to UnifontEX being used in many places, and UnifontEX2 happening while I'm gone, I'll be sure to thank y'xll. Hopefully I see all of you on the other side. I'm probably going to archive my repository mid-January. But until then, if there's anything terribly important you wish to tell me, I suggest you say it now. I'm maybe going to add some people who starred this *not* in the USA as contributors just to keep this repository a bit safe. 
 
 ### More facts, use cases, and information:
 
