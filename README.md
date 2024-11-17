@@ -485,6 +485,8 @@ The question is whether it being `glyf` TrueType would preclude its use as a fal
 Locking better Unicode support behind a paywall/Patreon/Gumroad just isn't something I'm morally okay with doing. Not to mention the fan reactions to me doing THAT. It's not something I ever want to do, for *MANY* reasons. 
 
 It's worth mentioning that some versions of FontForge do not honor your settings for Vendor ID, so even an ID of `GIGA` from the start may not have worked *at all*, and that's honestly a good excuse. Also, when dealing with the Subfamily (`Regular` in UnifontEX), in older versions of UnifontEX I had set it to `MediumMono`, but starting on the "modern" builds of it, I forgot it. Well, apparently THAT value for it would break certain Microsoft stuff. Same for setting the `Compatible Full` in the name table. And don't even get me started on the "Design Size" or `Mac Features` sections of FontForge. Many messes were there. UnifontEX was a *long* journey.
+
+I've just released a hotfix to the SVG and SVGZ versions brought on by bad FONTLOG comments. I've reissued the ZIP and 7Z builds, because this issue was too big to ignore. 
  
 Also, UnifontEX is something I want to make into a WikiReader successor using better technology. It would use e-Ink, and it could view non-English Wikipedia articles, as well as converted MediaWiki wikis. Specs-wise, it would be closest to a Kindle Touch for affordability. It would have a backlight you can toggle. The screen resolution would be enough to display 80 columns. However it would be keyboard-controlled like the oldest Kindles
 because my Kindle Touch is syrupy-slow. 
