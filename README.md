@@ -104,6 +104,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🔂📫📳🔕🕩🕼🖀🖄🖨🔆📸📈🤳 - Phone  
 🖹🖼🗞🛒🛏🛫🚲📦📧🏞🏟🏝 - Search  
 🏙🏔🎶🎮🎭🎬🎪🌂🌐🚙 - Search 2  
+🎌🚩🏁🏱🏲🏳🏴⛿⛳ - Flags  
+🕫🕬📢📣 - Bullhorns  
 🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
 🖉🖊🖋🖌🖍✎✏✐✑✒ - Pens  
 📌📍📎🖇📏📐✂🖈⯒ - Office Symbols  
