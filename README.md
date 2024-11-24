@@ -416,6 +416,19 @@ By the way, we're on Satellaview+ now! Evidently they like us. `😁`
 
 In other news, I've now made a Discussions and Wiki, as well as made the Github Pages code prettier and a self-demo of UnifontEX. This was hard to do, but it looks good. I've sort of made the Github in general more advanced after some accidental discoveries fiddling around on mobile. It's tiring but worth it. Hopefully this page seems less bland now. And yes, I even made the EOT load just in case you use Internet Explorer to view it.
 
+Also UnifontEX could be considered a core font, namely a *utility* font. It's about compatibility. But do I recommend using it for a wedding invitation? You be the judge.
+It's a utility font like Wingdings/etc. (Actually, *not* like. UnifontEX inherits Unicode's entire Wingdings family.)
+Its job is to display `a` *relevant* symbol if a string involves uncommon special characters. It can also be used to completely represent a UI or 4 types of Dingbat fonts. It's much lighter than Noto.
+But it's pixel, though in several circumstances and *formats*, this is desirable. Would I use it on my wedding invitation? No, I'd use Cöntgen Kanzley for *that*. It's a mix of cursive, italics, and Fraktur and it's OFL too. 
+Now, for something like a LAN party, yes!
+Honestly it's the inverse of literally ALL the MS Core Fonts, but it is still core.
+And that's OK. And unlike Noto, it's justifiable as a web font. The WOFF1 is 3MiB, which is basically one image, so I'd call it a Core Font For The Web too. Great for fighting mojibake. If you visually like it, power to you. It just screams technology and industrial, both of which are some of its use cases. It gets the job done. That being said, I'm sure it in a VFD tube would be absolutely gorgeous. Preferably one of those fancy things you see on Adafruit. I want some of that green glow on my UnifontEX alarm clock that has integrated computer status display including stuff like the email and music icons. Idea: digital alarm clock that helps keep you informed when you wake up.
+Perhaps the pixel aesthetic looking like an alarm clock is definitely a good thing.
+Or maybe it would be useful on a smart appliance? It just has so many pictograms and looks futuristic. See, that's the thing about UnifontEX, it looks BOTH retro AND futuristic. It's stylish to geeks, let's just put it that way. Now whether people in the Comic Sans bracket or the Times New Roman crowd would like it is up in the air. Maybe the cool kids would love it and become inspired to pursue S.T.E.M.?
+And it *is* usable on essays with care, and *behaves* like Times New Roman, it just doesn't look like it *at all*, and it has *way* better Unicode support than it.
+But is it more professional? `You tell me!`
+It has legitimate professional uses, and it's something you could actually use in industry. But it's a pixel font, so that's a factor to consider when answering that.
+
 As of *recent* times, Unifont (and UnifontEX) can be used in non-GPL stuff, according to *this* section on the Unifont website:
 ```
 Commercial Use
