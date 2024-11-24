@@ -428,6 +428,7 @@ Or maybe it would be useful on a smart appliance? It just has so many pictograms
 And it *is* usable on essays with care, and *behaves* like Times New Roman, it just doesn't look like it *at all*, and it has *way* better Unicode support than it.
 But is it more professional? `You tell me!`
 It has legitimate professional uses, and it's something you could actually use in industry. But it's a pixel font, so that's a factor to consider when answering that.
+Oh, and it has ancient symbols, but it's NOT Papyrus, so please keep that in mind.
 
 As of *recent* times, Unifont (and UnifontEX) can be used in non-GPL stuff, according to *this* section on the Unifont website:
 ```
