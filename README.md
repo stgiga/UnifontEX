@@ -51,7 +51,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ✵■❉❆❏■▼✥✸ - Zapf Dingbats  
 ΥνιφοντΕΞ - "Symbol" Font  
 🢀🢁🢂🢃🢄🢅🢆🢇 - Arrows  
-🛆🛇🛈🛉🛊 - Signage Symbols  
+🛆🛇🛈🛉🛊℃℉K - Signage Symbols  
 ⛄⛆⛐⛓⛰ ⛲⛫⛔ - Road News  
 ⚓⛵🚤🛳⛴🛥🚢 - Boat Symbols  
 ⟸⟹⟺⤂⤃⤄↞↠←→ - Coding Ligatures  
@@ -166,6 +166,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🙠🙡🙢🙣🙤🙥🙦🙧 - Fleurons  
 ✀✁✂✃✄ - Scissors  
 ➘➙➚➳➴➵➶➷➸➹➺➻➼➽ - Barbed  
+🎧❤📷👤🕒🎙👁✎✔⮋👍👎🔍🏠 - Spot  
 ᚛ᚒᚅᚔᚃᚑᚅᚈᚓᚙ᚜ - Ogham  
 ᚢᚾᛁᚠᛟᚾᛏᛖᚲᛋ - Elder Futhark Runes  
 ᚢᚾᛁᚠᚬᚾᛏᛅX - Younger Futhark Runes  
@@ -519,6 +520,13 @@ If you want to burn the 7Z to a conventional Business Card CD, overburn is neede
 I hope that UnifontEX goes even more places in the future, and that it gets used more, and as broadly as I've found uses for. It would quite interesting if coming out from hibernation I see that UnifontEX is widely-used. THAT would be quite interesting. That's assuming that it's a hibernation rather than a shutoff, to use a computer analogy. That, or neither happens, and I'm able to keep going, albeit distant. It's all a big unknown. 
 Also, finishing my work (fixes and UnifontEX2, plus WASM syntax highlighting and other stuff) would be the best way to keep things going. Also, maybe some means of helping me find liberation from the situation would be in order too. I'll keep doing updates to my stuff until the wheels fall off. Every update I will use the Wayback Machine on this site, in order to keep things going if I AND the IO domains aren't available next year. 
 Furthermore, I have every repo of mine set up to be part of the Github Archive Program, just in case. UnifontEX is too valuable to lose. It's been a good run, folx, and I hope it keeps on going as long as it can. `🌠🌟`
+
+I feel like UnifontEX would be VERY useful in the IoT (Internet of Things) landscape, either as a developer tool, or in the case of something where you *want* to look futuristic, the actual display. I recently found out someone was using UnifontEX in a Spotify clock, but wasn't using the pictograms, so I gave an explanation, and I've added some sample text of them to that effect.
+It would be interesting to see a sort of "Internet pager" that uses UnifontEX's massive pool of icons to pictographically display information in Unicode, beamed from a computer or cellphone.
+And when I say "information", I mean a LOT of things I would want to know about when far away from my computer such as weather, e-mail status, phone status, the time, and other important info.
+
+One of the reasons UnifontEX has SO many symbols relevant to communication, tech, and weather is that it has the entire Wingdings line (including Webdings) of fonts in it, by virtue of having Plane0+Plane1 and properly-filled emoji blocks. Wingdings had stuff like the mailbox states and some computing hardware, and Wingdings 2 had even more computing stuff, some of it complementary to Wingdings, and Webdings, which Microsoft made specifically to help the Internet. It has even more complementary symbols to the previously-mentioned Wingdings and Wingdings 2 icons. In UnifontEX, ALL of this coexists along with ITC Zapf Dingbats, and so one can do stuff with UnifontEX that regular Wingdings-family fonts and regular Unifont cannot do, such as render much of a GUI in only text characters. Plane0+Plane1 coexistence is key here. Keep in mind that while Webdings had a LOT of e-mail and UI symbols, some major ones were in either Wingdings or Wingdings 2, and NOT in Webdings, so if one is limited by one-font limits, you can't do a full UI with the Wingdings family. Unifont suffers from a similar problem in which some important symbols are in Plane 0 and others in Plane 1, and in upstream Unifont, Plane 0 and Plane 1 do not coexist. So even though Unicode added the whole family of Wingdings, yet again, you can't use everything unabridged. But UnifontEX merged Plane 0 and Plane 1, including everything in Wingdings, Wingdings 2, Wingdings 3, Webdings, and ITC Zapf Dingbats, allowing one to *finally* do a Wingdings-family UI, which at this point technically obsoletes Marlett. Basically, yes, you can have Webdings' e-mail symbols plus Wingdings' mailbox states, allowing for a proper e-mail status indicator. You have the various document, tech, and OS icons from Wingdings, Wingdings 2, AND Webdings coexisting, as well as even Webdings' `No Frames` icon. Basically, it's Wingdings-line+Zapf coexistence AND Plane0+Plane1 coexistence that allows UnifontEX to be an excellent UI/symbol font. If you're looking for a retro-futuristic UI font, you've come to the right place. See what you can make with it! Even IoT.
+There are SO many devices and apps you could make with UnifontEX thanks to everything it includes. You would need a LOT less custom symbols, AND localization would go better, plus it's free.
 
 Also, UnifontEX is something I want to make into a WikiReader successor using better technology. It would use e-Ink, and it could view non-English Wikipedia articles, as well as converted MediaWiki wikis. Specs-wise, it would be closest to a Kindle Touch for affordability. It would have a backlight you can toggle. The screen resolution would be enough to display 80 columns. However it would be keyboard-controlled like the oldest Kindles
 because my Kindle Touch is syrupy-slow. 
