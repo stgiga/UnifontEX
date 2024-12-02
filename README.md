@@ -544,6 +544,8 @@ Also, formats too. (BFTTF/BFOTF and PGF) Some hornets' nests are best avoided. W
 No, I think it's better to not go there.
 If you want to make BFTTF/BFOTF and PGF builds yourself, I can't stop you. The PGF format and what is used to make it are both quite fickle. Meanwhile the other two I mentioned are simpler to make (basically XOR the TrueType in the right way with the right XOR, of which there are three) but also something that's probably wisest to avoid doing. Once again, I can't stop you.
 
+Oh and the contents of the `Sample Text` field in the `name` table were chosen because I'm a massive geek and I felt it would be a geeky thing to implement.
+
 Also, UnifontEX is something I want to make into a WikiReader successor using better technology. It would use e-Ink, and it could view non-English Wikipedia articles, as well as converted MediaWiki wikis. Specs-wise, it would be closest to a Kindle Touch for affordability. It would have a backlight you can toggle. The screen resolution would be enough to display 80 columns. However it would be keyboard-controlled like the oldest Kindles
 because my Kindle Touch is syrupy-slow. 
 
