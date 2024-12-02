@@ -604,4 +604,4 @@ Also, to those who have used UnifontEX in games (at present Gem Frenzy, Ocean's 
 *In memory of Albrecht Biedl, the Berlin professor that the original creator of Unifont, Roman Cyzborra, according to his website, had as a thesis advisor, who passed away on December 16th, 2023. I'm glad he lived to see UnifontEX.*
 
 ### Here are the stats:
-[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=stgiga&repo=UnifontEX)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=stgiga&repo=UnifontEX)](https://github.com/stgiga/UnifontEX/)
