@@ -278,8 +278,8 @@ GƸOʜeҩ - QNTM Base2048
 📟😋🚽🎾💓🗣🎁📺📖🎭  
 ```
 *You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes are possible. So are SQL ER Diagrams.)
-### Here are the stats:
-[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=stgiga&repo=UnifontEX&show_owner=true&description_lines_count=3&theme=shadow_green)](https://github.com/stgiga/UnifontEX/)
+### UnifontEX's stats:
+[![UnifontEX Stats](https://github-readme-stats.vercel.app/api/pin/?username=stgiga&repo=UnifontEX&show_owner=true&description_lines_count=3&theme=shadow_green)](https://github.com/stgiga/UnifontEX/)
 
 
 ## Now, what DOES adding Upper into Unifont offer?
