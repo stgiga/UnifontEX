@@ -278,6 +278,9 @@ GƸOʜeҩ - QNTM Base2048
 📟😋🚽🎾💓🗣🎁📺📖🎭  
 ```
 *You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes are possible. So are SQL ER Diagrams.)
+### Here are the stats:
+[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=stgiga&repo=UnifontEX&show_owner=true&description_lines_count=3&theme=shadow_green)](https://github.com/stgiga/UnifontEX/)
+
 
 ## Now, what DOES adding Upper into Unifont offer?
 
@@ -603,5 +606,3 @@ Also, to those who have used UnifontEX in games (at present Gem Frenzy, Ocean's 
 
 *In memory of Albrecht Biedl, the Berlin professor that the original creator of Unifont, Roman Cyzborra, according to his website, had as a thesis advisor, who passed away on December 16th, 2023. I'm glad he lived to see UnifontEX.*
 
-### Here are the stats:
-[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=stgiga&repo=UnifontEX&show_owner=true&description_lines_count=3&theme=shadow_green)](https://github.com/stgiga/UnifontEX/)
