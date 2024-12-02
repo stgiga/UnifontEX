@@ -538,7 +538,11 @@ As Google *once* said: `Don't be evil.` Be a kind soul and then you'll be happy 
 
 The above clarification exists (as does another statement on being nice) due to the bad conduct of someone who shall remain anonymous. It's got nothing to do with anyone I've designated to continue development of this font, so don't worry.
 Nobody is getting fired. Someone *not* on the team/list but still *slightly* (emphasis on *slightly*) involved did something of a nature that made me have to tell people to be nice to each other. Common decency is important, and I think some people forget that, which is why I *had* to make this statement. Be nice folx!
+
 Oh and the other point of the statement was to explain how characters were picked.
+Also, formats too. (BFTTF/BFOTF and PGF) Some hornets' nests are best avoided. We don't need to deal with THOSE kettles of fish, given how the makers of those formats can be sometimes. That's not something we need. It's *beyond* `YAGNI` at this point, given certain factors.
+No, I think it's better to not go there.
+If you want to make BFTTF/BFOTF and PGF builds yourself, I can't stop you. The PGF format and what is used to make it are both quite fickle. Meanwhile the other two I mentioned are simpler to make (basically XOR the TrueType in the right way with the right XOR, of which there are three) but also something that's probably wisest to avoid doing. Once again, I can't stop you.
 
 Also, UnifontEX is something I want to make into a WikiReader successor using better technology. It would use e-Ink, and it could view non-English Wikipedia articles, as well as converted MediaWiki wikis. Specs-wise, it would be closest to a Kindle Touch for affordability. It would have a backlight you can toggle. The screen resolution would be enough to display 80 columns. However it would be keyboard-controlled like the oldest Kindles
 because my Kindle Touch is syrupy-slow. 
