@@ -3,7 +3,7 @@ An extended fork of GNU Unifont with a focus on high compatibility (and accessib
 
 I've also made binary and C builds for the LVGL embedded display library, so now you can use it on even more embedded displays, and I've also made .js and .json versions for Typeface.js, plus FONTX2 Kanji and non-Kanji versions for DOS/V, as well as a C++ Uint8t file version that evidently some programs use, as well as an Adafruit_GFX version.
 
-I also made a PostScript Type42 (PostScript-encapsulated TrueType) build for old classy printers as well as a LibreCAD LFF version, plus an iOS Mobileconfig version.
+I also made a PostScript Type42 (PostScript-encapsulated TrueType) build for old classy printers as well as a LibreCAD LFF version (which should be given a lowercase filename for older LibreCAD versions), plus an iOS Mobileconfig version.
 
 Furthermore, I offer two XDelta patches (they use the newest XDelta. If you try to use Marcobledo's patcher for example, it will complain about no secondary decompressor) that turn Unifont-JP 15.0.06 into UnifontEX. One is for the TTF, one is for the BDF.
 
