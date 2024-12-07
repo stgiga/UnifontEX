@@ -501,7 +501,7 @@ Firstly, Unifont 15.1 switched away from the Galmuri Gothic Hangul, reducing ner
 Secondly, some glyphs will change widths. So existing UnifontEX art will break. Even non-dedicated art such as several Tweet artworks will break due to a widening.
 Third, some shapes suffer: U+1F72C looks less like the nonbinary symbol at some point after Unifont 11.0.01 Upper. 
 
-Basically, rebasing UnifontEX would cause problems, as would having the build script replace existing glyphs. 
+Basically, rebasing UnifontEX would cause problems (and trying to graft upstream 15.1.01 Ideographic Description Characters into UnifontEX to avoid rebasing ends up breaking the WOFF1 Easter egg, what a shocker. UnifontEX2 of course does these additions as part of its script. Remember, UnifontEX2 is its own kettle of fish and is evergreen and the webfont size stuff doesn't apply here because of HarfBuzz using tables *creatively*. VORG...), as would having the build script replace existing glyphs. 
 As far as text art is concerned, UnifontEX would inherently be more stable than UnifontEX2 because the latter is evergreen. 
 Also, it's worth mentioning that UnifontEX2 would have syntax highlighting via the Wasm table. Note that the Wasm table is even capable of translation.
 
