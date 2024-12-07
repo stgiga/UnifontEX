@@ -432,6 +432,9 @@ But is it more professional? `You tell me!`
 It has legitimate professional uses, and it's something you could actually use in industry. But it's a pixel font, so that's a factor to consider when answering that.
 Oh, and it has ancient symbols, but it's NOT Papyrus, so please keep that in mind.
 
+Also, UnifontEX is basically a FAR better Pixel AFS Gothic, which is the same resolution but with FAR fewer characters (it doesn't even remotely cover emoji ground). AND it's 92 blooming dollars... Why bother?
+As for DotGothic16, it's ALSO the same resolution and has fewer still characters. If you're looking for that vintage/futuristic LCD/VFD/OLED font, settling for less characters (and a giant price tag) is bad. UnifontEX will get the job done and is free, plus it has MANY more characters. It is also libre, and on that note:
+
 As of *recent* times, Unifont (and UnifontEX) can be used in non-GPL stuff, according to *this* section on the Unifont website:
 ```
 Commercial Use
