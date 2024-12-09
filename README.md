@@ -282,7 +282,8 @@ GƸOʜeҩ - QNTM Base2048
 ㋿㍻㍼㍽㍾㍿㌣㌐ - JP Lig  
 ⻰⻱⻲⻳ - CJK Radicals  
 ⿐⿑⿒⿓⿔⿕ - Kangxi  
-☕📚📖✍🎧🖎📝 - Writing 2   
+鿖鿗鿟鿫鿬鿭 - Special Han  
+☕📚📖✍🎧🖎📝 - Writing 2  
 🌎📶🧠📈🔎📉🧮📊 - Stats  
 …  
 ``` 
@@ -293,7 +294,7 @@ GƸOʜeҩ - QNTM Base2048
 📟😋🚽🎾💓🗣🏥🛋📖🎭  
 📟😋🚽🎾💓🗣🎁📺📖🎭  
 ```
-*You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes are possible. So are SQL ER Diagrams.)
+*You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes are possible. So are SQL ER Diagrams. Also Biang and Taito exist.)
 
 
 ## Now, what DOES adding Upper into Unifont offer?
