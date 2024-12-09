@@ -137,7 +137,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ㎭㎮㎯㏉㏊㏋㏏㏃㏞㏟㏌℔Ω℧ - Science4  
 ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ - CJK Moons  
 【】〒〓〔〕〖〗〘〙〚〛 - CJK Punct  
-〶〄㉿⮗〷⚡︎⛮ - CJK Electric Symbols  
+〶〄㉿⮗〷⚡⛮ - CJK Electric Symbols  
 〈〉《》「」『』〠〽〻𖿠 - CJK Punct  
 〡〢〣〤〥〦〧〨〩〸〹〺 - Hangzhou  
 ㊀㊁㊂㊃㊄㊅㊆㊇㊈㊉ - Han Numbers  
