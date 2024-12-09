@@ -101,7 +101,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🈰🈱🈳🈴🈵🈶🈷🈸🈹🈺🈻🈁🈂 - ARIB 2  
 🆋🆌🆍🆎🆏🅿🆊🆑🆒🆓🆔🆕🆖 - ARIB 3  
 🆗🆘🆙🆚🆬🆫🆪🆥🆦🆠🆡🆢🆐 - ARIB 4  
-🅊🅋🅌🅍🅎🅏⚿⚞⚟ - ARIB Symbols 5  
+🅊🅋🅌🅍🅎🅏⚿⛞⚞⚟⛻⛼⛍ - ARIB 5  
 🆛🆜🆝🆞🆟🆧🆨🆩🆣🆤⦷ - TV Symbols  
 🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳 - UI Symbols  
 ⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛⎉⎆⎋⎌⎙⌤ - UI2  
@@ -136,6 +136,10 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ㎕㎖㎗㎘㏛㏜㏝㏐㏑㏒㏅㏈ - Science 3  
 ㎭㎮㎯㏉㏊㏋㏏㏃㏞㏟㏌℔Ω℧ - Science4  
 ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋ - CJK Moons  
+【】〒〓〔〕〖〗〘〙〚〛 - CJK Punct  
+〶〄㉿⮗〷 - CJK Electric Symbols  
+〈〉《》「」『』〠〽〻 - CJKV Punct  
+〡〢〣〤〥〦〧〨〩〸〹〺 - Hangzhou  
 ㊀㊁㊂㊃㊄㊅㊆㊇㊈㊉ - Han Numbers  
 ㉄㉅㉆㉇㊊㊋㊌㊍㊎㊏ - Circled Han  
 ㉁㉂㉃㊐㊑㊒㊓㊔㊕㊖ - Circled Han 2  
