@@ -506,6 +506,11 @@ The gist of the above is that UnifontEX2 can happen, and it has the criteria for
 
 UnifontEX would also look good for a HUD in a retro/futuristic environment or even displays in stuff like clocks and even appliances. Additionally, I give full permission to continue my work.
 
+It's situations like the Itch.io outage that make me glad I haven't put all my eggs in one basket. Perhaps I *shouldn't* serve UnifontEX myself either. Having links break for something like *this* is **`bad`**. Especially given the webfonts.
+Yeah no, I'm not taking the risk. I want my content to be usable by people for eons.
+Self-serving it would thus be a bad idea.
+But this doesn't mean I won't integrate it into a self-hosted web app like my own Fedi instance once I make one.
+
 I also have made an XDelta patch that turns the TrueType version of Unifont-JP 15.0.06 into UnifontEX, something I'll *also* do for the BDF. The idea being that you can patch the closest version of Unifont to UnifontEX into UnifontEX in-place. The XDelta3 ends up being 600KiB, and through hdiff and strong compression I've made even-smaller patches, but doing XDelta works with game patchers. I'll put these patches in a separate directory. Note that these patches are for the Japanese version. I'm also planning on making a UnifontEX-to-UnifontEX2 patch.
 
 Additionally, I'm planning on making UnifontEX a caption font using SSA. (Seeing it in VLC and Kodi as an option would be welcomed too.) Also, Github or any platform with codeblocks, if you're listening, I implore you to add it as a fallback font for codeblocks site-wide, in case someone is trying to use codeblocks for something that *doesn't* use ASCII text.
