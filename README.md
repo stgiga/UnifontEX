@@ -97,7 +97,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ➊➋➌➍➎➏ - Dark Dingbat Numbers  
 🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉 - Dark Boxed  
 🉠🉡🉣🉤🉥☯ - Chinese Seals  
-🉀🉁🉂🉃🉄🉅🉆🉇🉈🉐🉑🈯︎🈀 - ARIB 1  
+🉀🉁🉂🉃🉄🉅🉆🉇🉈🉐🉑🈯🈀 - ARIB 1  
 🈰🈱🈳🈴🈵🈶🈷🈸🈹🈺🈻🈁🈂 - ARIB 2  
 🆋🆌🆍🆎🆏🅿🆊🆑🆒🆓🆔🆕🆖 - ARIB 3  
 🆗🆘🆙🆚🆬🆫🆪🆥🆦🆠🆡🆢🆐 - ARIB 4  
