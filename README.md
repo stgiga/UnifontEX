@@ -57,7 +57,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⛄⛆⛈⛐⛓⛰ ⛲⛫⛏⛔ℹ - Road News  
 ⚓⛵🚤🛳⛴🛥🚢 - Boat Symbols  
 ℀℁℅℆⅍⅊℠™℗🄯©®🅪🅫🄮§ - Legal Symbols  
-㏍㏚㏇㋏㍿ - Corporation Symbols  
+㏍㏚㏇㋏㍿💼 - Corporation Symbols  
 ⟸⟹⟺⤂⤃⤄↞↠←→ - Coding Ligatures  
 ⤆⤇↢↣⬹⤔⬺⤕≃⟚⟛⇿ - Code Ligs 2  
 ⬻⤖⬼⤗⬽⤘⇜⇝⬳⟿◇⟪⟫⍅⍆ - Code Lig3  
@@ -103,9 +103,9 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🆗🆘🆙🆚🆬🆫🆪🆥🆦🆠🆡🆢🆐 - ARIB 4  
 🅊🅋🅌🅍🅎🅏⚿⛞⚞⚟⛻⛼⛍ - ARIB 5  
 🆛🆜🆝🆞🆟🆧🆨🆩🆣🆤⦷ - TV Symbols  
-🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳 - UI Symbols  
-⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛⎉⎆⎋⎌⎙⌤ - UI2  
-🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙📋🖲 - UI3  
+🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳⎀ - UI Symbols  
+⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛⎉⎆⎋⎌⎙⌤⌗ - UI2  
+🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙📋🖲⌕ - UI3  
 🐧🖧🖩🖭🖷🗀🗎⊞⎚⎔🖵 - OS Symbols  
 🗑🗜🗺 📀📧📆ᯤ⊟⎗⎘⎀🖺🖽🖾▤ - OS2  
 🔂📫📳🔕🕩🕼🖀🖄🖨🔆📸📈🤳 - Phone  
@@ -115,7 +115,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🕫🕬📢📣🎉 - Bullhorns  
 🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
 🖉🖊🖋🖌🖍✎✏✐✑✒ - Pens  
-📌📍📎🖇📏📐✂🖈⯒ - Office Symbols  
+📌📍📎🖇📏📐✂🖈⯒⁋ - Office Symbols  
 🥼🔬🧬🧫🧪⌬🔍🔭⌭⏨ - Science Symbols  
 🝰🝱🝲🝳 - Alchemical Symbols  
 🌑🌒🌓🌔🌕🌖🌗🌘🌝🌛🌜 - Moon Phases  
@@ -238,7 +238,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⩋⩊∧∨⩕⩘⩗⑇⫫ - Chiptune 2  
 ⫪⩚⟑╯╰░▒▓#⎺⎽෴꒷ - Chip 3  
 ⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂ - Wave 2  
-✎﹏﹏﹏﹏﹏﹏﹏ - Writing  
+✎﹏﹏﹏﹏﹏﹏﹏¶ - Writing  
 ⛆⛆⛆⛆ - Raining  
 ┴┬┴┬┴┬┴┬┴┬┴┬┴┬ - Bricks  
 ╧╤╧╤╧╤╧╤╧╤╧╤╧╤╧╤ - Bricks 2  
