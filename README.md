@@ -101,7 +101,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🈰🈱🈳🈴🈵🈶🈷🈸🈹🈺🈻🈁🈂 - ARIB 2  
 🆋🆌🆍🆎🆏🅿🆊🆑🆒🆓🆔🆕🆖 - ARIB 3  
 🆗🆘🆙🆚🆬🆫🆪🆥🆦🆠🆡🆢🆐 - ARIB 4  
-🅊🅋🅌🅍🅎🅏⚿⚞⚟ - ARIB Symbols  
+🅊🅋🅌🅍🅎🅏⚿⚞⚟ - ARIB Symbols 5  
 🆛🆜🆝🆞🆟🆧🆨🆩🆣🆤⦷ - TV Symbols  
 🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳 - UI Symbols  
 ⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛⎉⎆⎋⎌⎙⌤ - UI2  
