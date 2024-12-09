@@ -110,7 +110,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🗑🗜🗺 📀📧📆ᯤ⊟⎗⎘⎀🖺🖽🖾▤ - OS2  
 🔂📫📳🔕🕩🕼🖀🖄🖨🔆📸📈🤳 - Phone  
 🖹🖼🗞🛒🛏🛫🚲📦📧🏞🏟🏝 - Search  
-🏙🏔🎶🎮🎭🎬🎪🌂🌐🚙 - Search 2  
+🏙🏔🎶🎮🎭🎬🎪🌂🌐🚙🎨 - Search 2  
 🎌🚩🏁🏱🏲🏳🏴⛿⛳ - Flags  
 🕫🕬📢📣🎉 - Bullhorns  
 🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
