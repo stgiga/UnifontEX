@@ -207,6 +207,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ➘➙➚➳➴➵➶➷➸➹➺➻➼➽ - Barbed  
 🎧❤📷👤🕒🎙👁✎✔⮋👍👎🔍🏠📚 - Spot  
 ⚠⚡☣☢🔥🕱💣🏜🧴🧪👤🧯🧤🥽🥼 - Safety  
+•<>ꓭƆꓷƎꟻꉧİỊƮꓘㅈ⅃ꟼ⁋⌮ЯꞱ - Zodiac K1  
+ΩΛ🝥Z⌖⏀⦵⊙⊗◓◑◒◐●△◬▲🞎🞔◪⬕⬛ - ZK2  
 ᚛ᚒᚅᚔᚃᚑᚅᚈᚓᚙ᚜ - Ogham  
 ᚢᚾᛁᚠᛟᚾᛏᛖᚲᛋ - Elder Futhark Runes  
 ᚢᚾᛁᚠᚬᚾᛏᛅX - Younger Futhark Runes  
