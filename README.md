@@ -110,8 +110,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳⌃ - UI Symbols  
 ⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛⎉⎆⎋⎌⎙⌤⌗ - UI2  
 🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙📋🖲⌕ - UI3  
-🐧🖧🖩🖭🖷🗀🗎⊞⎚⎔🖵◆ - OS Symbols  
-🗑🗜🗺 📀📧📆ᯤ⊟⎗⎘⎀🖺🖽🖾▤⇮ - OS2  
+🐧🖧🖩🖭🖷🗀🗎⊞⎚⎔🖵◆🤖 - IT Icons  
+🗑🗜🗺 📀📧📆ᯤ⊟⎗⎘⎀🖺🖽🖾▤⇮ - IT2  
 🔂📫📳🔕🕩🕼🖀🖄🖨🔆📸📈🤳 - Phone  
 ✆📞🖀🕻🕼🕽🕾🕿℡ - Landline Phone  
 🖹🖼🗞🛒🛏🛫🚲📦📧🏞🏟🏝 - Search  
@@ -125,7 +125,9 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🝰🝱🝲🝳⚛ - Alchemical Symbols  
 🌑🌒🌓🌔🌕🌖🌗🌘🌝🌛🌜 - Moon Phases  
 ♳♴♵♶♷♸♹♾ - Recycling Symbols  
-⎾⎿⏀⏁⏂⏃⏄⏅⏆⏇⏈⏉⏊⏋⏌ - Dental  
+⎾⎿⏀⏁⏂⏃⏄⏅⏆⏇⏈⏉⏊⏋⏌℞ - Dental  
+☤⚕🏥💉💊😷⛨🕏🚑✚⛑♿⚚ - Medical  
+🧠🧬🦴🦷🤒🤕🤢🤮🧫🧼🦵🦶 - Medical 2  
 ♔♕♖♗♘♙♚♛♜♝♞♟ - Chess Pieces  
 🩠🩡🩢🩣🩤🩥🩦🩧🩨🩩🩪🩫🩬🩭 - Chess  
 ㉈㉉㉊㉋㉌㉍㉎㉏ - JP Speed Signs  
@@ -210,7 +212,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⎌↶↷⤺⤻⟲⟳↺↻↩↖↘←→↓↑⎋ - PC Arrows  
 ⏩⏪⏫⏬⏭⏮⏯ - FastForward Arrows  
 🔠🔡🔢🔣🔤 - Input Type Symbols  
-💰💱💲💳💴💵💶💷💸₿₠ - Money  
+💰💱💲💳💴💵💶💷💸₿₠🤑 - Money  
 ₳฿₣₲₭₥₦₱₽₴₮₩⃀ - Currency Symbols  
 ❠❡❢❣⍻⹋†‡⸸‽⸙🙸 - Fancy Punctuation  
 🙰🙱🙲🙳🙴🙵 - Fancy Ampersands  
