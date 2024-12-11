@@ -205,7 +205,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🌡🌢🌣🌤🌥🌦🌧🌨🌩🌪🌫🌁🌀 - Weather  
 🍛🍜🍝🍞🍟℮㎈㎉㏿🍄🍦 - Foodstuffs  
 🥤🥗🍔🍗🍟🥓🥠🥡🥢🥟 - Foodstuffs 2  
-🍳🍴🍵🥄🔪🍽🍶🍼🍺🍷🍸🍹 - Foodware  
+🍳🍴🍵🥄🔪🍽🍶🍼🍺🍷🍸🍹⛾ - Dishes  
 📤📥📧📨📩📪📫📬📭📮 - Email States  
 🖎🖃🖬🗑🖻🗄📎📤🖄🖅🖆🖂 - Email UI  
 🖁📱📲📳📴📵📶 - Cellphone Symbols  
