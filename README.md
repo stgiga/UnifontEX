@@ -210,7 +210,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🖎🖃🖬🗑🖻🗄📎📤🖄🖅🖆🖂 - Email UI  
 🖁📱📲📳📴📵📶 - Cellphone Symbols  
 📱📶⌚🎧🛡🔒⚡🔋⏏⏎⊗⊖⊕👽 - Tech Icons  
-🖪🖫🖬🖭💽💾🖴✇⎈✲⇮✉⍰ - PC Icons  
+🖪🖫🖬🖭💽💾🖴✇⎈✲⌑✉⍰ - PC Icons  
 🖸💻🖳🖥🖧💿📀🖵📟🔅🔆⎖ - Misc Tech
 🖮🖯🖰🖱🖲🖶🖷🖨🔋🔌🕹 - PC Gadgets  
 🗀🗁🗂🗅🗇🗈🗉🗊🗋🗍🗎🗏🗐 - Files  
