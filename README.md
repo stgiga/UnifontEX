@@ -642,7 +642,8 @@ If you want to make BFTTF/BFOTF and PGF builds yourself, I can't stop you. The P
 
 Oh and the contents of the `Sample Text` field in the `name` table were chosen because I'm a massive geek and I felt it would be a geeky thing to implement.
 
-UnifontEX also features a LOT of characters useful in specialized fields. I could see UnifontEX being used in SO many powerful ways and applications/use cases. 
+UnifontEX also features a LOT of characters useful in specialized fields. I could see UnifontEX being used in SO many powerful ways and applications/use cases. From books to labels to maps to manuals to status displays to papers to development. 
+UnifontEX is THE font for professional purposes, and quite a lot of fun ones too.
 
 Also, UnifontEX is something I want to make into a WikiReader successor using better technology. It would use e-Ink, and it could view non-English Wikipedia articles, as well as converted MediaWiki wikis. Specs-wise, it would be closest to a Kindle Touch for affordability. It would have a backlight you can toggle. The screen resolution would be enough to display 80 columns. However it would be keyboard-controlled like the oldest Kindles
 because my Kindle Touch is syrupy-slow. 
