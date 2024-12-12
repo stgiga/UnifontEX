@@ -58,7 +58,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🚵🚸🚷🚮🚯🚰🚱🚲🚳🚭🚶🚏🚦🛌 - Sign3  
 ⛄⛆⛈⛐⛓⛰ ⛲⛫⛏⛔ℹ - Road News  
 ⚓⛵🚤🛳⛴🛥🚢🛶🚣🚤 - Boat Icons  
-✈🛦🛧🛨🛩🛪🛫🛬🚁🚀 - Plane Icons  
+✈🛦🛧🛨🛩🛪🛫🛬🚁🚀🛰 - Aircraft  
 🚂🚃🚄🚅🚆🚇🚈🚉🚊🚋🛤🛲 - Trains  
 🚓🚔🚕🚖🚗🚘🚙🚐🚑🚒⛟🚚🚛 - Cars  
 🚠🚡🚝🚞🚟🚌🚍🚎🚏 - Public Transit  
@@ -122,8 +122,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ✆📞🖀🕻🕼🕽🕾🕿℡ - Landline Phone  
 🖹🖼🗞🛒🛏🛫🚲📦📧🏞🏟🏝 - Search  
 🏙🏔🎶🎮🎭🎬🎪🌂🌐🚙🎨🔧 - Search2  
-🎌🚩🏁🏱🏲🏳🏴⛿⛳🚩 - Flags  
-🕫🕬📢📣🎉📡🔔🔕 - Notifications  
+🎌🚩🏁🏱🏲🏳🏴⛿⛳🎏 - Flags  
+🕫🕬📢📣🎉📡🚨⍾🕭🔔🔕 - Alerts  
 🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
 🖉🖊🖋🖌🖍✎✏✐✑✒ - Pens  
 📌📍📎🖇📏📐✂🖈⯒⁋ - Office Symbols  
@@ -143,6 +143,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ㉈㉉㉊㉋㉌㉍㉎㉏ - JP Speed Signs  
 ⛓⛔⛕⛖⛗⛘⛙⛚⛛⛜ - Road Signage  
 ⛰⛱⛲⛳⛴⛵⛷⛸⛹⛺⛽⛾⛩⚓- Travel  
+🏜🗻🗼🗽🗾🏰🏝🏞🏨🏯🛓🛔 - Vacation  
+🌌🌉🌃🌄🌅🌆🌇🎑🌁⛆ - Dim Weather  
 ㍱㍲㍳㍴㍵㍶㍷㍸㍹㍺㋎㋍㎜㋌ - Units  
 ㎅㎆㎇㎑㎒㎓㎔㏔㎐ - Technical Units  
 ㎀㎁㎂㎃㎄㎴㎵㎶㎷㎸㎹ - Volt & Amp  
