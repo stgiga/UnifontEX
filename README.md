@@ -69,10 +69,10 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⟸⟹⟺⤂⤃⤄↞↠←→ - Coding Ligatures  
 ⤆⤇↢↣⬹⤔⬺⤕≃⟚⟛⇿ - Code Ligs 2  
 ⬻⤖⬼⤗⬽⤘⇜⇝⬳⟿◇⟪⟫⍅⍆ - Code Lig3  
-⋘⋙≮≯⩽⩾≡≢≣⊥⊦⊨⊲⊳⩨⩩ - Coding Lg4  
-⩵⩶⧏⧐⏴⏵⧣⧥⟨⟩⟠⊬⧺⧻ - Coding Lg5  
-≔⩴⤙⤚⤛⤜➾↜↝↤↦🡘⊣ - Coding Lg6  
-⇷⇸⇹↔⇺⇻⇼↤↦⟻⟼⇐⇒⇍⇏⊫ - Coding Lg7  
+⋘⋙≮≯⩽⩾≡≢≣⊥⊦⊨⊲⊳⩨⩩ᗘ - Code Lg4  
+⩵⩶⧏⧐⏴⏵⧣⧥⟨⟩⟠⊬⧺⧻ᗛ - Code Lg5  
+≔⩴⤙⤚⤛⤜➾↜↝↤↦🡘⊣ᕭ - Code Lg6  
+⇷⇸⇹↔⇺⇻⇼↤↦⟻⟼⇐⇒⇍⇏⊫ᕮ - Code Lg7  
 ⫻⫽⟤⟥∥∷⧴⧧⧶⭃⭺⭼⇽⇾ - Code Lig8  
 ⥢⥤⤝⤞⤟⤠⬾⁇‥…‼⁑⹔⸚⊩⊪ - Code Lig9  
 ⬴⤀⬵⤁⬶⤅ᕁ⚋𝌀𝌅‖╠↔ - Code Lig10   
