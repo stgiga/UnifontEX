@@ -98,7 +98,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 𝍭❈✧❁🟔➊➋➌➍➎⯖🎞🌐😊 - VG16  
 📺💻👜💌🛈🢔🢖🢕🢗⟲⟳🖩⛭ - VG 17  
 ⬌⬍⬅⮕⬆⬇⬉⬈⬊⬋⠛⣤⣦⣴⠻⠟㊐ - Game 18  
-🡠🡢🡡🡣🡤🡥🡦🡧⤫⤬✓⨉📁🅱 - VG19  
+🡠🡢🡡🡣🡤🡥🡦🡧⤫⤬✓⨉📁🅱 - VG19
+🍒🍓🍊🍎🍈🛦🔔🔑 - Puck-Man Symbols  
 ⮰⮱⮲⮳⮴⮵⮶⮷⮸⇞⇟🌐⇧␣ - Keyboard  
 🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩 - Dark Bubbled  
 ⓿❶❷❸❹❺❻❼❽❾ - Dark Numbers
@@ -366,7 +367,7 @@ GƸOʜeҩ - QNTM Base2048
 📟😋🚽🎾💓🗣🏥🛋📖🎭  
 📟😋🚽🎾💓🗣🎁📺📖🎭  
 ```
-*You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes are possible. So are SQL ER Diagrams. Also Biang and Taito exist.)
+*You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes are possible. So are SQL ER Diagrams. Also Biang and Taito exist, and at least one emoji/symbol is an Easter egg, but remember I didn't draw anything.)
 
 
 ## Now, what DOES adding Upper into Unifont offer?
