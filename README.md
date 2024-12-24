@@ -191,7 +191,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ♈♉♊♋♌♍♎♏♐♑♒♓⛎ - Zodiac Star Signs  
 ☿♀♁♂♃♄♅⛢♆ - Zodiac Planet Signs  
 ♇⯓⯔⯕⯖⯗ - Zodiac Pluto Signs  
-⎓⏚⏛⏦⏧⎏⎐⍼⌁ - Electric Symbols  
+⎓⏚⏛⏦⏧⎏⎐⍼⌁⭍ - Electric Icons  
 ⚙⛭⛮⛯⚒⛏🔩♲♺♻♼♽ - Industry  
 🗺🌍🌎🌏🌐🜨♁☷🜃⏚ - Earth Symbols  
 ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻⅼⅽⅾⅿ - Roman Numerals  
