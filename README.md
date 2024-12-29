@@ -463,6 +463,8 @@ HarfBuzz ALSO supports WebAssembly code, and some builds that use it are here, a
 #### [**Unifont-JP 15.0.06-to-UnifontEX BDF Upgrade XDelta**](UnifontExMono-16.xdelta)
 ##### [ALL formats in one BWTC32Key Tarball](https://UnifontEX.sourceforge.io/UnifontEX.B3K)
 
+###### [Legacy TTF2PNG Ultra-Low-Level version](UnifontExMono15006.png)
+
 I didn't upload the PSP format stuff because font edits on PSPs can cause crashes randomly, and I had to generate Chinese fonts (hacked Japanese format) due to lack of software, AND no Korean PSP font maker exists.
 I didn't do Nintendo's BFTTF/BFOTF because there's 3 types each, AND they're just simple XORs for which converters exist, AND because it may be a bad idea (see also Sony, I mean, they sued geohot) given certain factors. I don't need extra chaos to happen while I'm out-of-commission. If you want to make these builds yourself, I can't stop you. On that note, the repo may potentially be controlled by someone I trust who is not in my region in the event things go REALLY bad and I am no longer around. I don't know if archiving the repository affects the URL (or doing a transfer as a successor) for the Github Pages link. I instruct users with an Archive.org account to archive THIS URL
 [https://stgiga.github.io/UnifontEX](https://stgiga.github.io/UnifontEX) with ALL checkboxes checked in the Wayback Machine's "Save Page Now" button, just like I've been doing, so that it gets ALL the outlinks, some to places like [https://UnifontEX.sourceforge.io](https://UnifontEX.sourceforge.io) and such.
@@ -683,7 +685,7 @@ Also, DOS/U would be DOS/V but with the 999KiB UnifontEX build used as the font,
 The two files would also be part of my `Na2900sg` chip, effectively an architecture for a fancy retro A/V chip that can be ported to multiple consoles. The JummBox SoundFont being CC-BY-SA4 with its GPL3-only compatibility means that the combo of UnifontEX and the bank is GPL3. It's open-source hardware that would upgrade the capabilities of older tech. Now, getting someone to *actually* produce the needed ICs is not something I can afford.
 
 I also plan on eventually getting a big bag of 1MiB SPI flash chips and flashing them with the TTF2PNG UnifontEX and making them part of a Unicode upgrade for anything using an East Rising Asian font IC
-that has the same package as those SPI flash chips. Obviously you will need to account for Unicode and the other parts of the chip, but I don't forsee any major problems. I *so* want to see a UnifontEX display. But I'm broke, so that's a problem for future me, and I am not future me yet.
+that has the same package as those SPI flash chips. Obviously you will need to account for Unicode and the other parts of the chip, but I don't forsee any major problems. I *so* want to see a UnifontEX display. But I'm broke, so that's a problem for future me, and I am not future me yet. The Legacy version of the TTF2PNG version exists *IF* your environment can't handle the structure of the Unicode 15.1 version.
 
 UnifontEX would probably look cool in a synthesizer or graphing calculator too, and I have device ideas to these effects but once again no money. I'd probably use a 400x240 dot-matrix LCD for 50-column text. Also I think it would look cool as a HUD font for Source Engine and Source 2 games, especially the numbers. I could even see it fitting in TF2 for the players who play the more-techy maps to use for a HUD font. The question is how do I test it?
 
