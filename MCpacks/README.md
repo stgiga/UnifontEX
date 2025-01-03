@@ -2,29 +2,29 @@ This folder contains builds of UnifontEX for Minecraft versions that support Tru
 
 Now for the version guide:
 
-> The `pf0` in `UnifontEXpf0.zip` means that it's a texture pack (`NOT` a `Resource Pack`), and it's for `1.5-1.5.2`.
+> The `pf0` in [`UnifontEXpf0.zip`](UnifontEXpf0.zip) means that it's a texture pack (`NOT` a `Resource Pack`), and it's for `1.5-1.5.2`.
 
-> The `pf1` in `UnifontEXpf1.zip` means `Pack Format 1`, which is `1.6.1-1.8.9`
+> The `pf1` in [`UnifontEXpf1.zip`](UnifontEXpf1.zip) means `Pack Format 1`, which is `1.6.1-1.8.9`
 
-> The `pf2` in `UnifontEXpf2.zip` means `Pack Format 2`, which is `1.9-1.10.2`
+> The `pf2` in [`UnifontEXpf2.zip`](UnifontEXpf2.zip) means `Pack Format 2`, which is `1.9-1.10.2`
 
-> The `pf3` in `UnifontEXpf3.zip` means `Pack Format 3`, which is `1.11-1.12.2`
+> The `pf3` in [`UnifontEXpf3.zip`](UnifontEXpf3.zip) means `Pack Format 3`, which is `1.11-1.12.2`
 
-> The `pf4` in `UnifontEXpf4.zip` means `Pack Format 4`, which is `1.13-1.14.4`
+> The `pf4` in [`UnifontEXpf4.zip`](UnifontEXpf4.zip) means `Pack Format 4`, which is `1.13-1.14.4`
 
-> The `pf5` in `UnifontEXpf5.zip` means `Pack Format 5`, which is `1.15-1.16.1`
+> The `pf5` in [`UnifontEXpf5.zip`](UnifontEXpf5.zip) means `Pack Format 5`, which is `1.15-1.16.1`
 
-> The `pf6` in `UnifontEXpf6.zip` means `Pack Format 6`, which is `1.16.2-1.16.5`
+> The `pf6` in [`UnifontEXpf6.zip`](UnifontEXpf6.zip) means `Pack Format 6`, which is `1.16.2-1.16.5`
 
-> The `pf7` in `UnifontEXpf7.zip` means `Pack Format 7`, which is `1.17-1.17.1`
+> The `pf7` in [`UnifontEXpf7.zip`](UnifontEXpf7.zip) means `Pack Format 7`, which is `1.17-1.17.1`
 
-> The `pf8` in `UnifontEXpf8.zip` means `Pack Format 8`, which is `1.18-1.18.2`
+> The `pf8` in [`UnifontEXpf8.zip`](UnifontEXpf8.zip) means `Pack Format 8`, which is `1.18-1.18.2`
 
-> The `pf9` in `UnifontEXpf9.zip` means `Pack Format 9`, which is `1.19-1.19.2`
+> The `pf9` in [`UnifontEXpf9.zip`](UnifontEXpf9.zip) means `Pack Format 9`, which is `1.19-1.19.2`
 
-> The `pf12` in `UnifontEXpf12.zip` means `Pack Format 12`, which is `1.19.3`
+> The `pf12` in [`UnifontEXpf12.zip`](UnifontEXpf12.zip) means `Pack Format 12`, which is `1.19.3`
 
-> The `pf13` in `UnifontEXpf13.zip` means `Pack Format 13`, which is `1.19.4`
+> The `pf13` in [`UnifontEXpf13.zip`](UnifontEXpf13.zip) means `Pack Format 13`, which is `1.19.4`
 
 WARNING: The Legacy Unicode PNG stuff is derpy, toy around and find out, and do so at your own risk, I used [Mineglyph](https://github.com/Hakdaw/Mineglyph) as the converter, so if you can do better let me know what options to use. 
 
