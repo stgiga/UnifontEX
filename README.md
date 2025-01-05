@@ -29,6 +29,13 @@ Unifont⅀𝕏 - Math
 Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps  
 ⏸⏹⏺⏻⏼⏽⏾⏿⮗⌫⍨ - Technical  
 𝄠𝄡𝄢𝄣𝄤♩♪♫♬♭♮♯🎘🎜🎶🎵 - Music  
+𝄖𝄗𝄘𝄙𝄚𝄛𝄜𝄝𝄔𝄕𝄆𝄇🎝 - Music 2  
+𝄉𝄊𝄋𝄌𝄍𝄎𝄏𝄐𝄑𝄞𝄟𝄳𝄽 - Music 3  
+𝄰𝄱𝄲𝄴𝄵𝄶𝄷𝄸𝄹𝄺𝄻𝄼𝄾𝄿𝅀𝅁𝅂𝅅 - Music 4  
+𝅘𝅥𝅮𝅘𝅥𝅯𝅘𝅥𝅰𝅘𝅥𝅱𝅘𝅥𝅲𝅪𝅫𝅬𝆮𝆯𝆰𝆱𝆲𝆑 - Music 5  
+𝆖𝆗𝆘𝆙𝆚𝇙𝇚𝇛𝇜𝇡𝇖𝇗 - Music 6  
+𝇘𝇇𝇈𝇉𝇊𝇋𝇌𝇍𝇎𝇏𝆸 - Music 7  
+𝆶𝆷𝄫𝄬𝄭𝄮𝄯𝆦𝆧𝆨𝆒𝆓𝆴𝆵 - Music 8  
 𝃰𝃱𝃲𝃳𝃴𝃵 - Byzantine Music  
 𝉀𝉁 𝉂 𝉃 𝉄𝉅 - Ancient Greek Music  
 🂠🃜🃚🃖🃁🂭🂺🎴 - Playing Cards  
