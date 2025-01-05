@@ -278,7 +278,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ﹌﹌﹌﹌﹌ - Waves  
 【﻿⏻】📶🌐⁵ᴳ🔆 - Fancy UI  
 ⇆ ◁ ❚❚ ▷ ↻🔅 - Player 2  
-ε(´｡•᎑•`)っ 💕 - Kaomoji 2  
+ε(´｡•᎑•`)っ 💕웃 - Kaomoji 2  
 ⋆｡ ﾟ☁｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆ - Sky  
 ━━━━●───── - Seekbar  
 ⚫⚫⚫⚪⚪ - Loading Circles  
