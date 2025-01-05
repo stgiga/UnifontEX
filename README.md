@@ -215,7 +215,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⛀⛁⛂⛃ - Draughts  
 ⚆⚇⚈⚉ - Go Game  
 ☗⛊☖⛉ - Shogi  
-☐🗴🗵🗶🗷🗸🗹🔘 - Checkboxes  
+☐🗴🗵🗶🗷🗸🗹☐☑☒🔘 - Checkboxes  
 🔀🔁🔂🔃🔄 - Looping Modes  
 🔇🔈🔉🔊 - Volume Symbols  
 🕪🕩🕨 - Reversed Volume  
