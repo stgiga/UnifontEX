@@ -224,7 +224,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🕠🕡🕢🕣🕤🕥🕦🕧㏂㏘ - Time  
 🌡🌢🌣🌤🌥🌦🌧🌨🌩🌪🌬🌫🌀 - Weather  
 🍛🍜🍝🍞🍟℮㎈㎉㏿🍄🍦 - Foodstuffs  
-🥤🥗🍔🍗🍟🥓🥠🥡🥢🥟 - Foodstuffs 2  
+🥤🥗🍔🍗🍨🥓🥠🥡🥢🥟 - Foodstuffs 2  
 🍳🍴🍵🥄🔪🍽🍶🍼🍺🍷🍸🍹⛾ - Dishes  
 📤📥📧📨📩📪📫📬📭📮 - Email States  
 🖎🖃🖬🗑🖻🗄📎📤🖄🖅🖆🖂 - Email UI  
