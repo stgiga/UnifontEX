@@ -53,6 +53,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ∀∃∄∴∵∎¬∧∨⊼⊻ - Math Logic  
 ⌅⌆∝∶∷∥∦⟂⦜∠∡ - Geometry  
 ∑∫π²∞ - Math Equation  
+⧍⏧⨳⩼⦞⨄⭈≝⍼⩐⩩⍨℘⫁⌭⨓⨋ - XKCD  
 ⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞⅟↉‱‰⁒ - Fractions  
 ⬧⧫♑♓♑♋ - Wingdings 1 Font  
 ✹🟃🟇✯🟍🟔⯌⯍※⁂ - Wingdings 2  
