@@ -5,7 +5,7 @@ I've also made binary and C builds for the LVGL embedded display library, so now
 
 I also made a PostScript Type42 (PostScript-encapsulated TrueType) build for old classy printers as well as a LibreCAD LFF version (which should be given a lowercase filename for older LibreCAD versions), plus an iOS Mobileconfig version.
 
-Furthermore, I offer two XDelta patches (they use the newest XDelta. If you try to use Marcobledo's patcher for example, it will complain about no secondary decompressor) that turn Unifont-JP 15.0.06 into UnifontEX. One is for the TTF, one is for the BDF.
+Furthermore, I offer two XDelta patches (they use the newest XDelta. If you try to use Marcrobledo's patcher for example, it will complain about no secondary decompressor) that turn Unifont-JP 15.0.06 into UnifontEX. One is for the TTF, one is for the BDF.
 
 Basically, I've released builds for MANY formats, from the common (TrueType, which is no longer offered openly by upstream Unifont), to the most niche/obscure ones, of which BDF is the only one also offered by upstream Unifont. Stuff like the DFONT, BDF, OTB, WOFF1, EOT, and SVG versions are largely for legacy systems, because not everyone has the latest and greatest technology.
 
