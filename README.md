@@ -188,7 +188,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ㉖㉗㉘㉙㉚㉛㉛㉜ - Bubbled Numbers 4  
 ㉝㉞㉟㊱㊲㊳㊴㊵ - Bubbled Numbers 5  
 ㊶㊷㊸㊹㊺㊻㊼㊽ - Bubbled Numbers 6  
-⓵⓶⓷⓸⓹⓺⓻⓼ - Double Bubbled  
+⓵⓶⓷⓸⓹⓺⓻⓼🔟 - Double Bubbled  
 ⓽⓾🄋㊾㊿ - Double & Regular Bubbled  
 ➀➁➂➃➄➅➆➇➈➉ - Bold Bubbled  
 🅀🅁🅂🅃🅄🅅🅆🅇🅈🅉 - Light Boxed  
