@@ -678,6 +678,8 @@ From devices to firmware to stories, everything. Obviously not the wedding invit
 
 My technical writing course as of January 2025, in using 12-point fonts that can't be complex or ornate, allows UnifontEX because 16px on Windows = 12pt. It DOES say that if a page has only a few lines with text the size should be 11 or 10 to fit, but that works better on paper and this is a virtual course, so instead I opt to make it either integer or half page counts via adding more detail to get to a half-page or getting rid of safe-to-remove waffling or using shorter words. I'm definitely going to use Unicode to represent symbols. Since I'm in uni I probably won't have a lot of free time.
 
+Also UnifontEX supports quite a few specialized types of symbols, like Genealogy, Ornaments, and such. Let's just say that even the sample text is becoming quite lengthy, but that was always going to be the case due to UnifontEX's high glyph count across many sections of Unicode, so it's *not* a bad thing.
+
 Additionally, I got a very short and affordable domain [`b3k.me`](http://b3k.me) because I could. I have quite a few big plans for it, like Fedi.
 
 UnifontEX is *also* good when dealing with strings such as names given how much Unicode it supports. It would work for screen names and non alike. Honestly if I were a government body let's just say that UnifontEX would be practically everywhere. It can do a LOT of good in *so* many ways.
