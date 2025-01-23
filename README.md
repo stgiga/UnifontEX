@@ -431,7 +431,29 @@ TT^.^⤺t[\_≈'o''||8oᗜ̣o[
 ⨠≫⨠ℒ𝓛𐐝◯᳃◯᳃◠⌒⌢⌒⌒◠𖼆
 ዋஇꆰ𐙞ꆯᐂ⧊Ⳓʑ𖫨𑁛𐃬⃛ꐬ𐂴
 ధ⬠⬡⭔ꕤ⚝𐘽⧛≀⨺ꕢ𐬾ꖜ
-𑁘୬᯿⟜⌱ੳ𐙔
+𑁘୬᯿⟜⌱ੳ𐙔𐀷⚹∗〉⌄∿▢𐃯⍛
+ᕄлቢʘᯣ∪𐀏ଚ𑀫♀♂⚇⮾‧ⵎᑗ
+𐃭Ⅲ⌗⋕ᘐ꩜୭⏃ↆ￬▢□ЬსΙ̥⩹❣𝈣
+↯ꮻጲጰጸጻ꧰𐘃⸙ቢ⃛ᒪ⌊ⵊ⊔‧ᑘ⨆‧
+𐀳⍡𐁉⧻⊔◡⌣𖼓🀧🀙🀧𑁓〓∙⃛𐀎❔Ɯ
+ሠ𖥭⊥ⵎ‧⊟⍠  ⃞⃛ ⚂▢⃛ଲ⋎⌖ㅠ⛩⤺
+↶⊣ᅥ𐅽ⵚ⏱o⃛ö́ö⍥⍥⛣ꎊ⌓𐃬⚔𐋄
+ꕖ𐙁ᔳᔳ⍩⛌⤱ᱦ⍵🏹𝝪𐍅＋⧾ສ⌘Ⴥ
+𐒎⭘甲曱இ🜶O̯🌄Ⱄ𐒥🐟𑁛⥾Ｋ
+ቋሸṅሸ史🍎⁒⸓𝄎⁒٪%𝄎🍦🌛
+♣🌺☁ꕤ߷🀢ⰊϪ❄⚹ӿ⫾▯👁⨴⨵⚇
+↟⏃ᛣЉЊ🦶њ💕🅉☺🙂ⓤ🀙🃱🄾
+😎🧧·ȯ̮·˙Ȯ˙🀧⌻⧇⺵ധጠ爪
+🃃🁣⚂🈩🝕⊟☼⌖༓🝊ᚂᦰ☿🍆
+Ꮘ꘠ꕢꎊ፦ꧧꮘ𐐐🐦።⠶ⵆധᱦꑘ
+𐐗𐐿ᛏ个ᗭᑕ𝕔ᙅ𝚌𝑳ԼⅬᔨᔩᖨǾ
+ⲑⴱ𝝷💊🍄ሮᕦ⧈▣ᗏ≺⪦⋖<⟬ᕙ
+ꖸ🖂⪪⩤ᗕ⚟ᗕ⦑🌷❀ ✿🞱
+⟁𝔂𝙮𝒚у🃃🀆Ꙍ𝓌✖✕ቿ壬
+⧤⨹⨺⨻ⰊϪϫ￡⨤⨢⨩⨥⨦⛶⁂⛬༜
+⚌⎅•♥☽❩❫❳❵⟫≫❭❯❱㐃♉߹🗻
+⮽⮾⮿㊂㊁㊀㊉㋓㋯ꀧꌆ⧋
+…   
 ```
 
 *You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes (and coding ligatures) are possible. So are SQL ER Diagrams. Also Biang and Taito exist, and at least one emoji/symbol is an Easter egg, but remember I didn't draw anything.)
