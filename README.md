@@ -382,15 +382,15 @@ GƸOʜeҩ - QNTM Base2048
 ```
 ##### Shidinn:
 ```
-ꓕ9ᗑÞᕵՌԽLΔǂ⩡ࠎꇁႩҜⴲ
-ӠႣƩЯÞ̵⇱Ѫ옷ↀᔑ☊☋⩞ÐᔐԄ∇
+ꓕ9ᗑÞᕵՌԽLΔǂ⩡ࠎꇁႩҜⴲГ
+ӠႣƩЯÞ̵⇱Ѫ옷ↀᔑ☊☋⩞ÐᔐԄ∇Г̨
 ♂♀ᔕ♋♈♫⚥⚦$ꞩ¥ꔱП͆⊥ɘѧþᶉ
 ɿ̵ ᘈ ̵ʟⲇƚ⚺ϝIⴉh‹ɸ̵ʒ♁ʃяþ̵ʀѫ
 ⩚ꝏᔕⱅߘჲɒᔓԄ∇♂♀ᔕ♋⥾♪
 ⚥⚦ꞩ¥ʏ̵ʬʭ🜇ԘѦѧ匚∈1ƋƎꜬᛋ
 6ꓶᗺQϴıəзꜭᛋꮾ℩8qϑɤʇʏ🛠️☭
-
-
+ҼГ꒛ⱯᏡϡⵃㄛꟻⱵỊƼı̣ɼ̵εӘĐ𐅤ᱰᱰ̵
+ꯂꓕꝮᗑÞᕵՌԽΔǂ𖫠ꔌ̵ↀᱵ早🝰
 ```
 
 *You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes (and coding ligatures) are possible. So are SQL ER Diagrams. Also Biang and Taito exist, and at least one emoji/symbol is an Easter egg, but remember I didn't draw anything.)
