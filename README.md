@@ -139,7 +139,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⯨⯩⯪⯫🟊⭐🌟 - Star Ratings  
 ✰✩✪✫✬✭✮✯🟊 - Dingbat Stars  
 🎌🚩🏁🏱🏲🏳🏴⚐⚑⛿⛳🎏🚏 - Flags  
-🕫🕬📢📣🎉📯📡🚨⍾🕭🔔🔕 - Alerts  
+🕫🕬📢📣🎉📯📡🚨⍾🕭🔔🔕 🦖- Alerts  
 🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
 🖉🖊🖋🖌🖍✎✏✐✑✒🖎✍📝 - Pens  
 📌📍📎🖇📏📐✂🖈⯒⁋🕴 - Office Icons  
@@ -262,7 +262,9 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ✌✀✁✂✃✄ - Scissors  
 ➘➙➚➳➴➵➶➷➸➹➺➻➼➽ - Barbed  
 🎧❤📷👤🕒🎙👁✎✔⮋👍👎🔍🏠📚 - Spot  
-⚠⚡☣☢🔥🕱💣🏜🧴🧪👤🧯🧤🥽🥼 - Safety  
+⚠⚡☣☢🔥🕱💣🏜🧴🧪👤🧯🧤🥽🥼 - Safety
+🙁🙂🙃🙄🙅🙆😀😁😂😃😄😅😆😇 - Smiley  
+😸😹😺😻😼😽😾😿🙀🐱 - Cat Smilies  
 •<>ꓭƆꓷƎꟻꉧİỊƮꓘㅈ⅃ꟼ⁋⌮ЯꞱ - Zodiac K1  
 ΩΛ🝥Z⌖⏀⦵⊙⊗◓◑◒◐●△◬▲🞎🞔◪⬕⬛ - ZK2  
 ᚛ᚒᚅᚔᚃᚑᚅᚈᚓᚙ᚜ - Ogham  
@@ -349,7 +351,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ༼ つ ◕_◕ ༽つ🍰🍔🍕 - Kao  
 (╹ -╹)? - Kaomoji 8  
 ▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭𝅼▬࣪▭ - Fancy Bars  
-⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊⛻ - OCR+Bank  
+⑀⑁⑂⑃⑄⑅⑆⑇⑈⑉⑊⛻🧾 - OCR+Bank  
 ␘␠␡␢␣␤␥␦ - Control  
 ￨￩￪￫￬￭￮ - Halfwidth  
 ⬛⬛⬛⬜⬜ - Loader  
