@@ -249,6 +249,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ₳฿₣₲₭₥₦₱₽₴₮₩⃀֏¤₹₢ - Currency Symbols  
 ❠❡❢❣⍻⹋†‡⸸‽⸙🙸 - Fancy Punctuation  
 ⅋＆🙰🙱🙲🙳🙴🙵﹠ - Fancy Ampersands  
+🙹🙺🙻⁉⁈⸘‽ - Interrobang Ornaments  
 ❀❁❂❃❄❅❆❇❈❉❊❋✋ - Dingbats  
 ✓✔✅✕✖✗✘❌ - Dingbat Checkmarks  
 ☓🞨🞩🞪🞫🞬🞭🞮🗙❎ - Dingbat X Marks  
