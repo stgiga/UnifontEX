@@ -484,6 +484,10 @@ TT^.^⤺t[\_≈'o''||8oᗜ̣o[
 
 *You get the idea...* (Yes, ALL of the above demonstrates the Plane0+Plane1 offered by UnifontEX. The Morse reads "UFEX", for `UnifontEX`. Also more barcodes (and coding ligatures) are possible. So are SQL ER Diagrams, conlangs, and more Pona. Also Biang and Taito exist, and at least one emoji/symbol is an Easter egg, but remember I didn't draw anything.)
 
+The Chiptune waves are as follows in order:
+```
+Square Wave, Upside-Down Square Wave, GBC Square Wave, Inverse GBC Square Wave, C64 Filtered Square Wave, Tim Follin ZX Spectrum 3.125% Beeper Pulse Wave, Inverse Follin ZX Spectrum 3.125% Beeper Pulse Wave, Thin Square Wave, Sine Wave, Half-Sine Wave, AY/YM (General Instrument AY-3-8910/8914/8930 and clones, including OPNx FM chips) Triangle Envelope Wave, FM Double Sine Operator Wave, Inverse FM Double Sine Operator Wave, Triangle Wave, Inverse Triangle Wave, Commodore 64 Triangle Wave Ring Modulation, Saw Wave, Inverse AY/YM Saw Hold Envelope Wave, Konami VRC6 Saw Wave, DoricDream - Freedom Polypulse Wave, Inverse Freedom Polypulse Wave, Tripulse Wave, GBC Pokémon Wave, AY/YM Saw Wave, AY/YM Reverse Saw Wave, White Noise, Pink Noise, Brownian Noise, Periodic Noise, Always-High Signal, Always-Low Signal, Sawpulse-Derived Tripulse Wave, FDS Zelda Triangle Sine.
+```
 
 ## Now, what DOES adding Upper into Unifont offer?
 
