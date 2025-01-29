@@ -392,6 +392,9 @@ GƸOʜeҩ - QNTM Base2048
 ☕📚📖✍🎧🖎📝 - Writing 2  
 🌎📶🧠📈🔎📉🧮📊💯 - Stats  
 ✩🕓⎇⊢%👁⚠🗪🗸📑 - Stat2
+☌⚲♂︎♀︎⚧⚦⚩⚥⮉⚬♓︎♁♏︎♄♃♇ - GSRM
+⚨☉⚢⚣⚤☿♆ - GSRM Symbols 2  
+♋︎♈︎♐︎♎︎♒︎♑︎♍︎♊︎♅♉︎☍⚮⚯⚭ - Astrology  
 …  
 ``` 
 ##### Tamagotchi Icons:
