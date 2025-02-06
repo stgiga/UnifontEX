@@ -183,7 +183,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 【】〒〓〔〕〖〗〘〙〚〛 - CJK Punct  
 〶〄㉿⮗〷⚡⛮ - CJK Electric Symbols  
 〈〉《》「」『』〠〽〻𖿠 - CJK Punc2  
-〡〢〣〤〥〦〧〨〩〸〹〺 - Hangzhou  
+〇〡〢〣〤〥〦〧〨〩〸〹〺 - Suzhou  
 ㊀㊁㊂㊃㊄㊅㊆㊇㊈㊉ - Han Numbers  
 ㉄㉅㉆㉇㊊㊋㊌㊍㊎㊏ - Circled Han  
 ㉁㉂㉃㊐㊑㊒㊓㊔㊕㊖ - Circled Han 2  
