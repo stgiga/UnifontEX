@@ -143,7 +143,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ✰✩✪✫✬✭✮✯🟊 - Dingbat Stars  
 🎌🚩🏁🏱🏲🏳🏴⚐⚑⛿⛳🎏🚏🏷💈 - Flags  
 🕫🕬📢📣🎉📯📡🚨⍾🕭🔔🔕 🦖- Alerts  
-🔒🔓🔏🔐🔑🗝⚿ - Locks and Keys  
+🔒🔓🔏🔐🔑🗝⚿🧰 - Locks and Keys  
 🖉🖊🖋🖌🖍✎✏✐✑✒🖎✍📝 - Pens
 📑📒📓📔📕📖📗📘📙📚🕮📇🏛🏫 - Books
 📌📍📎🖇📏📐✂🖈⯒⁋🕴 - Office Icons  
@@ -400,7 +400,7 @@ GƸOʜeҩ - QNTM Base2048
 ⿐⿑⿒⿓⿔⿕ - Kangxi  
 鿖鿗鿟鿫鿬鿭 - Special Han  
 ☕📚📖✍🎧🖎📝 - Writing 2  
-🌎📶🧠📈🔎📉🧮📊💯 - Stats  
+🌎📶🧠📈🔎📉🧮📊💯🗠 - Stats  
 ✩🕓⎇⊢%👁⚠🗪🗸📑 - Stat2
 ☌⚲♂︎♀︎⚧⚦⚩⚥⮉⚬♓︎♁♏︎♄♃♇ - GSRM
 ⚨☉⚢⚣⚤☿♆ - GSRM Symbols 2  
