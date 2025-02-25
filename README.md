@@ -621,6 +621,8 @@ Throw this into ReactOS, and you have better Unicode support. Or you can give ol
 Also UnifontEX allows improving the emoji (and Unicode) support of older smartphones still in use. I've seen people use it on phones a decade old to get better emoji (it'll also allow displaying MUCH more Unicode). It's keeping old devices alive that is quite noble, rather than buying into the whole planned obsolescence strategy employed by companies that is a total waste of valuable natural resources that could be used for other purposes rather than a shiny new phone every year plus feature removals as an added door prize for anyone silly enough to think Apple is a good source of advice for 15/16ths of the world's topics. I like older Apple, not modern Apple. That said, I *can't* hate Tim Cook. It's Apple's *other* executives who win Apple a Corporate Darwin Award.
 But I digress.
 
+Something that I should mention is that I'm going for a mathematical maxout before UnifontEX2 due to FontForge fixes. Think Unicode 18 or potentially 19. Also we don't condone ableism at all, for sure.
+
 UnifontEX installation as a UI font would be going for the pixel capsule in the Matrix analogy. Gotta make those Matrix references and laugh a bit.
 
 Also, now your terminal and IDE can support Unicode better, which can definitely help when localizing and/or debugging stuff. Unicode is important to get right. Take it from me. 
