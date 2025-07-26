@@ -408,6 +408,13 @@ GƸOʜeҩ - QNTM Base2048
 ☌⚲♂︎♀︎⚧⚦⚩⚥⮉⚬♓︎♁♏︎♄♃♇ - GSRM
 ⚨☉⚢⚣⚤☿♆ - GSRM Symbols 2  
 ♋︎♈︎♐︎♎︎♒︎♑︎♍︎♊︎♅♉︎☍⚮⚯⚭ - AstroGeno  
+✶⟾䒑ᄂム⧖⌂⧟⧝⧡⧞ - Misc Sym  
+⧠⧦⧮⨁⨀⧐⧲ℵ⟡⨃ - Misc Sym2  
+♡⟠⧿⊞⧕゠≀∂ᴽ⧷Ɯ⧺⧹⨂ - Misc Sym3  
+⨅⨆⨈ਨ⨄ᵋ⧘⧚入⧬- Misc Sym4  
+⧭⧯⌘ᅥ▭∑≡占囗⧼⧱⧳┴ - Misc Sym5  
+✻⧨⧩⧛⧙⧗⧔卩エ阝 - Misc Sym6  
+と匕刁⧢⧒⧑∫⧓ - Misc Symbols 7  
 …  
 ``` 
 ##### Tamagotchi Icons:
