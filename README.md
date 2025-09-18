@@ -402,6 +402,7 @@ GƸOʜeҩ - QNTM Base2048
 ⿐⿑⿒⿓⿔⿕ - Kangxi  
 鿖鿗鿟鿫鿬鿭 - Special Han  
 ㇯⿼⿽⿾⿿ - Unicode 15.1  
+㇤㇥Ᲊᲊ␧␨␩ꟋꟌꟍꟚꟛꟜ - Unicode 16  
 ☕📚📖✍🎧🖎📝 - Writing 2  
 🌎📶🧠📈🔎📉🧮📊💯🗠 - Stats  
 ✩🕓⎇⊢%👁⚠🗪🗸📑 - Stat2
