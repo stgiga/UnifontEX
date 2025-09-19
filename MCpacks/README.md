@@ -32,7 +32,7 @@ For usage in a server resource pack config file line in 1.13, you want to do `ht
 
 Viaversion can allow Java clients as early as 1.7 to connect, so players on decade+-old versions like 1.7 and 1.8 (my favorite versions prior to TrueType support) won't see these. It *is* possible to replace and extend the legacy PNGs (and they are devilishly tricky to get right, I'm glad I fixed spacing, but there is still a bit of jank to the whole thing), and I'm not sure how Plane 1 characters would work, let alone the Plane 2 Kanji or the Plane 3 Biang and Taito Han characters, or Plane 14 `Tags` + `Variation Selectors Supplement` characters.
 
-Quick note: Bold characters in TrueType mode appear as double-struck/outline due to Minecraft applying the same bolding method (duplicating and shifting pixels) across the board. This affects ALL versions I've played with it (1.17-1.19). Since the obfuscation text effect cycles through codepoints, I'm unsure of how it would handle 65422 glyphs, but in plugin-using servers I'm in it hasn't broken, and I don't think other formatting codes have either.
+Quick note: Bold characters in TrueType mode appear as double-struck/outline due to Minecraft applying the same bolding method (duplicating and shifting pixels) across the board. This affects ALL versions I've played with it (1.17-1.19). Since the obfuscation text effect cycles through codepoints, I'm unsure of how it would handle 65439 glyphs, but in plugin-using servers I'm in it hasn't broken, and I don't think other formatting codes have either.
 
 Also getting the TrueType font scaling right took about an hour of trial and error/bruteforcing if I remember correctly, and it took months to get the legacy PNG scaling working. TrueType mode visually is still bigger than default `Force Unicode Font`, so if you want heavy Unicode support *and* have bad vision like I do, you may find this appealing.
 
@@ -42,7 +42,7 @@ My cheap personal server from 2013 has only 512MiB of RAM and is 10-players. It 
 
 If you're like Snoopietek/WindowsG Electronics, and you enjoy making Minecraft and/or its server run on ancient computers, you can *also* use these, since the versions you can reasonably run can fit here. 
 
-I'm a Java veteran (I've owned Minecraft Java since 2013), and it was actually Minecraft that got me into Unifont. And no, I don't have a Minecon 2013 cape `😭` (It's a very wild and sad tale...)
-I was very adept at the Redstone and Creative stuff ten years ago. I use the Programmer Art resource pack.
+I'm a Java veteran (I've owned Minecraft Java since 2013, and I started on Pocket Edition Lite on December 25th, 2012), and it was actually Minecraft that got me into Unifont. And no, I don't have a Minecon 2013 cape `😭` (It's a very wild and sad tale...)
+I was very adept at the Redstone and Creative stuff ten years ago. I use the `Programmer Art` resource pack.
 
 TL;DR: If you support "retro" versions of Minecraft on your server, whether exclusively or inclusively, these files allow display of text supported by very modern Minecraft on quite a few versions not normally able to do so.
