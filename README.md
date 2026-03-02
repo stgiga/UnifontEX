@@ -84,6 +84,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🚹🚺🚻🚼🚽🚾🚿🛀🛁🛉🛊🅏🆏🟕 - Lav  
 ℀℁℅℆⅍⅊℠™℗🄯©®🅪🅫🄮§ - Legal Symbols  
 ㏍㏚㏇㋏㉐㍿💼🚅 - JP Company Icons  
+◬⊡⛭⛯⛮文㉆〶〒⭙☓⊕ - JP Map Icons
+⛨⭖⭗◉⭘⛩⛫⛼♨⛬⛰ - JP Map Syms2
 ⟸⟹⟺⤂⤃⤄↞↠←→ - Coding Ligatures  
 ⤆⤇↢↣⬹⤔⬺⤕≃⟚⟛⇿⥷ - Code Lig2  
 ⬻⤖⬼⤗⬽⤘⇜⇝⬳⟿◇⟪⟫⍅⍆≕ - Code Lg3  
