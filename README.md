@@ -60,6 +60,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ∑∫π²∞ - Math Equation  
 ⧍⏧⨳⩼⦞⨄⭈≝⍼⩐⩩⍨℘⫁⌭⨓⨋ - XKCD  
 ⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞⅟↉‱‰⁒ - Fractions  
+⭘⬤◐◑◒◓◔◕ഠ🞉 - Harvey Balls  
 🅰🅱🅾🆎➕➖⊟⊞␀ - Blood Type Icons   
 ❓⯅⯆⬍🞀◺◿◣◢『』 - Marlett Font  
 🗕🗖🗗⏴⏵⏶⏷⭳🞂🞃 - Marlett 2  
