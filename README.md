@@ -420,6 +420,7 @@ GƸOʜeҩ - QNTM Base2048
 ☌⚲♂♀⚧⚦⚩⚥⮉⚬♓♁♏♄♃♇ - GSRM
 ⚨☉⚢⚣⚤☿♆ - GSRM Symbols 2  
 ♋♈♐♎♒♑♍♊♅♉☍⚮⚯⚭ - AstroGeno  
+🛇◌✓♡💓🌿 - RURFTAD Symbols  
 ✶⟾䒑ᄂム⧖⌂⧟⧝⧡⧞ - Misc Sym  
 ⧠⧦⧮⨁⨀⧐⧲ℵ⟡⨃ - Misc Sym2  
 ♡⟠⧿⊞⧕゠≀∂ᴽ⧷Ɯ⧺⧹⨂ - Misc Sym3  
