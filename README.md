@@ -63,6 +63,8 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ∑∫π²∞ - Math Equation  
 ⧍⏧⨳⩼⦞⨄⭈≝⍼⩐⩩⍨℘⫁⌭⨓⨋ - XKCD  
 ⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞⅟↉‱‰⁒ - Fractions  
+℀℁℅℆㎧㎨㎮㎯ - Constant Fractions 1
+㏞㏟㏆℆⅍ - Constant Fractions 2
 ⭘⬤◐◑◒◓◔◕ഠ🞉 - Harvey Balls  
 🅰🅱🅾🆎➕➖⊟⊞␀ - Blood Type Icons   
 ❓⯅⯆⬍🞀◺◿◣◢『』 - Marlett Font  
@@ -124,7 +126,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⬌⬍⬅⮕⬆⬇⬉⬈⬊⬋⠛⣤⣦⣴⠻⠟㊐⛮ - VG 18  
 🡠🡢🡡🡣🡤🡥🡦🡧⤫⤬✓⨉📁🅱 - VG19  
 🔥🍂⚡🌊👊👁🞷🔸💀💤🐚♨🗲△※▷▽ - VG20  
-○●🅓🏚🐰◙🍒👑😐🄴🕒☎- VG21
+○●🅓🏚🐰◙🍒👑😐🄴🕒☎℔- VG21
 🍒🍓🍊🍎🍈🛦🔔🔑 - Puck-Man Symbols  
 ᗢᗧᗤᗣ·•🕭 - Puck-Man Symbols 2  
 ⮰⮱⮲⮳⮴⮵⮶⮷⮸⇞⇟🌐⇧␣ - Keyboard  
