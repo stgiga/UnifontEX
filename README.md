@@ -139,7 +139,14 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🆋🆌🆍🆎🆏🅿🆊🆑🆒🆓🆔🆕🆖 - ARIB 3  
 🆗🆘🆙🆚🆬🆫🆪🆥🆦🆠🆡🆢🆐 - ARIB 4  
 🅊🅋🅌🅍🅎🅏⚿⛞⚞⚟⛻⛼⛍ - ARIB 5  
+🈩🈔🈪🈧🈨🈫🈬🈭🈮🈰🈱 - J Baseball  
+🉀🉁🉂🉃🉄🉅🉆🉇🉈⚾ - J Baseball 2  
+🈂🈐🈑🈒🈓🈕🈖🈗🈘 - JP Broadcast 1  
+🈙🈛🈜🈝🈞🈟🈠🈡🈢 - JP Broadcast 2  
+🈣🈤🈥🈦🈷🈻🈔 - JP Broadcast Sym 3  
 🆛🆜🆝🆞🆟🆧🆨🆩🆣🆤⦷ - TV Symbols  
+🆬🆫🅎🅊🅌🆪🆠🆡🆢📺 - TV Symbols 2  
+㎐㎑㎒㎓㎔㏂㎙℞📡🛰ℹ - TV Symbols 3  
 🗔🗕🗖🗗🗘🗙🗚🗛⌘🔲🔳⌃🎝 - UI Icons  
 ⏰⏱⏳⏲⏯⏭⏵⌚⌥⌛⎉⎆⎋⎌⎙⌤⌗ - UI2  
 🗺🗘⮈➲🔎✔🔖🔗🗕🗖🗗🗙📋🖲⌕ - UI3  
