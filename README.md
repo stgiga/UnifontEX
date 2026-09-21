@@ -145,7 +145,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 🉀🉁🉂🉃🉄🉅🉆🉇🉈⚾ - J Baseball 2  
 🈂🈐🈑🈒🈓🈕🈖🈗🈘 - JP Broadcast 1  
 🈙🈛🈜🈝🈞🈟🈠🈡🈢 - JP Broadcast 2  
-🈣🈤🈥🈦🈷🈻🈔 - JP Broadcast Sym 3  
+🈣🈤🈥🈦🈷🈻🈔㉌㉍ - JP Broadcast 3  
 🆛🆜🆝🆞🆟🆧🆨🆩🆣🆤⦷ - TV Symbols  
 🆬🆫🅎🅊🅌🆪🆠🆡🆢📺 - TV Symbols 2  
 ㎐㎑㎒㎓㎔㏂㎙℞📡🛰ℹ - TV Symbols 3  
@@ -292,6 +292,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⚠⚡☣☢🔥🕱💣🏜🧴🧪👤🧯🧤🥽🥼 - Safety
 🙁🙂🙃🙄🙅🙆😀😁😂😃😄😅😆😇 - Smiley  
 😸😹😺😻😼😽😾😿🙀🐱 - Cat Smilies  
+🎌🗽🗾🗺🗼🍁🗻☫𑪞 - Countries  
 •<>ꓭƆꓷƎꟻꉧİỊƮꓘㅈ⅃ꟼ⁋⌮ЯꞱ - Zodiac K1  
 ΩΛ🝥Z⌖⏀⦵⊙⊗◓◑◒◐●△◬▲🞎🞔◪⬕⬛ - ZK2  
 ᚛ᚒᚅᚔᚃᚑᚅᚈᚓᚙ᚜ - Ogham  
