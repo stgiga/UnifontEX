@@ -55,7 +55,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ×÷±∓≈≠⎷√∛∜∑∫∮∂ƒ⎲⎳⩤⩥ℏ𝚫 - Math 2  
 αβδεθλμπφψΩℇ⯹⋖⋗⋘⋙⋚⋛⋜⋝℘𝛏 - Math 3  
 ∅∈∉⊂⊆∪∩≤≥ - Math Sets  
-∀∃∄∴∵∎¬∧∨⊼⊻⌐⨇ - Math Logic  
+∀∃∄∴∵∎¬∧∨⊼⊻⌐⨇⮖ - Math Logic  
 ⇒⟹→⊃⇔⟺↔≡≔′·≝⊕↮≢⊤⊥∀∃𝔻⊢⊨⟚≜ - Logic  
 ⊬⊭□◇↑↓⥽⌜⌝∄⊙⟛⊩⟡⟢⟣⟤⟥⋆ - Logic 2  
 ⌅⌆∝∶∷∥∦⟂⦜∠∡ - Geometry  
@@ -421,7 +421,7 @@ GƸOʜeҩ - QNTM Base2048
 ㍐㍑㍒㍓㍔㍕㍖㍗ - JP Lg2  
 ⻰⻱⻲⻳ - CJK Radicals  
 ⿐⿑⿒⿓⿔⿕ - Kangxi  
-鿖鿗鿟鿫鿬鿭 - Special Han  
+鿖鿗鿟鿫鿬鿭鿨 - Special Han    
 ㇯⿼⿽⿾⿿ - Unicode 15.1  
 ㇤㇥Ᲊᲊ␧␨␩ꟋꟌꟍꟚꟛꟜ - Unicode 16  
 ౜೜⃁⮖꟎꟏꟒꟔꟱ - Unicode 17  
