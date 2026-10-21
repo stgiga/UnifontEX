@@ -126,7 +126,7 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 ⬌⬍⬅⮕⬆⬇⬉⬈⬊⬋⠛⣤⣦⣴⠻⠟㊐⛮ - VG 18  
 🡠🡢🡡🡣🡤🡥🡦🡧⤫⤬✓⨉📁🅱 - VG19  
 🔥🍂⚡🌊👊👁🞷🔸💀💤🐚♨🗲△※▷▽ - VG20  
-○●🅓🏚🐰◙🍒👑😐🄴🕒☎℔𝗩𝗦🆚 - VG21
+○●🅓🏚🐰◙🍒👑😐🄴🕒☎℔𝗩𝗦🆚໑ - VG21
 🍒🍓🍊🍎🍈🛦🔔🔑 - Puck-Man Symbols  
 ᗢᗧᗤᗣ·•🕭 - Puck-Man Symbols 2  
 ⮰⮱⮲⮳⮴⮵⮶⮷⮸⇞⇟🌐⇧␣ - Keyboard  
@@ -330,6 +330,13 @@ Hᴇʟʟᴏ Wᴏʀʟᴅ﹗ - Small Caps
 𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 - Barcode  
 ▌│█║▌║▌║ - Barcode 2  
 ↻ ⏮⏸⏭ ↺ - Play Controls  
+↻ ◁ || ▷ ↺ - Play Control2  
+⚞^. .^⚟ - Cat Kaomoji  
+(˶◡‿◡)(´ ❥ `) - Love  
+｡ ₊°༺❤︎༻°₊ ｡ - Love 2  
+⋆ ˚｡⋆୨♡୧⋆ ˚｡⋆ - Love 3  
+(ㅅ´ ˘ `)(っ˘ڡ˘ς) - Kaos  
+ᓬ(•⤙•๑)ᕒ⋆.˚✮🎧✮˚.⋆ - KM2  
 ﹌﹌﹌﹌﹌ - Waves  
 【﻿⏻】📶🌐⁵ᴳ🔆 - Fancy UI  
 ⇆ ◁ ❚❚ ▷ ↻🔅 - Player 2  
